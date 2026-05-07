@@ -1,0 +1,624 @@
+2026-03-19 09:50:12 | INFO     | =======================================================
+2026-03-19 09:50:12 | INFO     |   INTEC SCRAPER — STEPS 1 & 2 STARTING
+2026-03-19 09:50:12 | INFO     | =======================================================
+2026-03-19 09:50:12 | INFO     | Accessing INTEC ranking (attempt 1/3)...
+2026-03-19 09:50:19 | INFO     | Page loaded successfully.
+2026-03-19 09:50:19 | INFO     | Total rows found across all tables: 202
+2026-03-19 09:50:19 | INFO     | Step 1 complete: 60 SUDESTE companies extracted.
+2026-03-19 09:50:19 | INFO     | 
+2026-03-19 09:50:19 | INFO     | =======================================================
+2026-03-19 09:50:19 | INFO     |   STEP 2 — VISITING COMPANY WEBSITES
+2026-03-19 09:50:19 | INFO     | =======================================================
+2026-03-19 09:50:19 | INFO     | [1/60] Searching: DIRECIONAL ENGENHARIA
+2026-03-19 09:50:21 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22DIRECIONAL%20ENGENHARIA%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:50:21 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22DIRECIONAL+ENGENHARIA%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:50:21 | INFO     | response: https://search.yahoo.com/search;_ylt=vi1p0PRUK2CGQhj0j5s-qu4K;_ylu=g_8m9VSdVrp7SxyaEfU7M_63k9__anPR4Ueh8BGQ715HenI?p=%22DIRECIONAL+ENGENHARIA%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:50:23 | INFO     | response: https://www.mojeek.com/search?q=%22DIRECIONAL+ENGENHARIA%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:50:23 | INFO     |   Found: https://www.direcional.com.br/
+2026-03-19 09:50:23 | INFO     |   Found: https://www.direcional.com.br/
+2026-03-19 09:50:26 | INFO     |   Email: ga@direcional.com.br | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✓
+2026-03-19 09:50:28 | INFO     | [2/60] Searching: PACAEMBU CONSTRUTORA
+2026-03-19 09:50:29 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22PACAEMBU%20CONSTRUTORA%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:50:29 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22PACAEMBU+CONSTRUTORA%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:50:30 | INFO     | response: https://yandex.com/search/site/?text=%22PACAEMBU+CONSTRUTORA%22+site+oficial+construtora+Brasil&web=1&searchid=8078924 200
+2026-03-19 09:50:30 | INFO     |   Found: https://www.solutudo.com.br/
+2026-03-19 09:50:30 | INFO     |   Found: https://www.solutudo.com.br/
+2026-03-19 09:50:33 | INFO     |   Email: N/A | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✗
+2026-03-19 09:50:35 | INFO     | [3/60] Searching: MPD ENGENHARIA
+2026-03-19 09:50:36 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22MPD%20ENGENHARIA%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:50:36 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22MPD+ENGENHARIA%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:50:36 | INFO     | response: https://www.google.com/search?q=%22MPD+ENGENHARIA%22+site+oficial+construtora+Brasil&filter=1&start=0&hl=en-US&lr=lang_en&cr=countryUS 403
+2026-03-19 09:50:37 | INFO     | response: https://search.yahoo.com/search;_ylt=r-Z3adKhRUP-PA9T7WtwC6D9;_ylu=ID4fftcnFafXrt49CWQfVwxWTDb91rO5RzKDmyBi8TUN01k?p=%22MPD+ENGENHARIA%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:50:39 | INFO     | response: https://yandex.com/search/site/?text=%22MPD+ENGENHARIA%22+site+oficial+construtora+Brasil&web=1&searchid=8198454 200
+2026-03-19 09:50:39 | INFO     |   Found: https://www.mpd.com.br/
+2026-03-19 09:50:39 | INFO     |   Found: https://www.mpd.com.br/
+2026-03-19 09:50:42 | INFO     |   Email: sarc@mpd.com.br | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✓
+2026-03-19 09:50:44 | INFO     | [4/60] Searching: CURY CONSTRUTORA
+2026-03-19 09:50:44 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22CURY%20CONSTRUTORA%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:50:44 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22CURY+CONSTRUTORA%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:50:45 | INFO     | response: https://search.yahoo.com/search;_ylt=Ab80r3HkCG-HE-JVPAZJgChC;_ylu=UAee9cE8UOP-En05ExoPPbj5DWRE_YB27oglUv-ybDzjnus?p=%22CURY+CONSTRUTORA%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:50:47 | INFO     | response: https://yandex.com/search/site/?text=%22CURY+CONSTRUTORA%22+site+oficial+construtora+Brasil&web=1&searchid=3949573 200
+2026-03-19 09:50:47 | INFO     |   Found: https://www.minhacasaminhavidarj.com.br/
+2026-03-19 09:50:47 | INFO     |   Found: https://www.minhacasaminhavidarj.com.br/
+2026-03-19 09:50:50 | INFO     |   Email: marcelefranca.rj@curyvendas.com.br | WhatsApp: ✓ | Instagram: ✗ | LinkedIn: ✗
+2026-03-19 09:50:52 | INFO     | [5/60] Searching: CONSTRUTORA TENDA
+2026-03-19 09:50:53 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22CONSTRUTORA%20TENDA%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:50:53 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22CONSTRUTORA+TENDA%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:50:54 | INFO     | response: https://www.mojeek.com/search?q=%22CONSTRUTORA+TENDA%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:50:54 | INFO     |   Found: https://www.blogarama.com/
+2026-03-19 09:50:54 | INFO     |   Found: https://www.blogarama.com/
+2026-03-19 09:50:59 | INFO     |   Email: N/A | WhatsApp: ✗ | Instagram: ✗ | LinkedIn: ✗
+2026-03-19 09:51:01 | INFO     | [6/60] Searching: BRNPAR INCORPORAÇÕES
+2026-03-19 09:51:02 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22BRNPAR%20INCORPORA%C3%87%C3%95ES%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:51:02 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22BRNPAR+INCORPORA%C3%87%C3%95ES%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:51:03 | INFO     | response: https://html.duckduckgo.com/html/ 200
+2026-03-19 09:51:03 | INFO     | response: https://www.google.com/search?q=%22BRNPAR+INCORPORA%C3%87%C3%95ES%22+site+oficial+construtora+Brasil&filter=1&start=0&hl=en-US&lr=lang_en&cr=countryUS 403
+2026-03-19 09:51:04 | INFO     | response: https://www.mojeek.com/search?q=%22BRNPAR+INCORPORA%C3%87%C3%95ES%22+site+oficial+construtora+Brasil 403
+2026-03-19 09:51:05 | INFO     | response: https://search.brave.com/search?q=%22BRNPAR+INCORPORA%C3%87%C3%95ES%22+site+oficial+construtora+Brasil&source=web 200
+2026-03-19 09:51:05 | INFO     |   Found: https://myside.com.br/
+2026-03-19 09:51:05 | INFO     |   Found: https://myside.com.br/
+2026-03-19 09:51:07 | INFO     |   Email: contato@myside.com.br | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✓
+2026-03-19 09:51:09 | INFO     | [7/60] Searching: PLANO & PLANO
+2026-03-19 09:51:10 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22PLANO%20%26%20PLANO%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:51:10 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22PLANO+%26+PLANO%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:51:10 | INFO     | response: https://search.yahoo.com/search;_ylt=tcF0NzPgsCsEFYEmnbZTbU3r;_ylu=ViyVP01AcOb9UtJ3t0y0GnPmlXclDajLBCG8Yco-8rmCdEI?p=%22PLANO+%26+PLANO%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:51:12 | INFO     | response: https://search.brave.com/search?q=%22PLANO+%26+PLANO%22+site+oficial+construtora+Brasil&source=web 200
+2026-03-19 09:51:12 | INFO     |   Found: https://www.planoeplano.com.br/
+2026-03-19 09:51:12 | INFO     |   Found: https://www.planoeplano.com.br/
+2026-03-19 09:51:14 | INFO     |   Email: vizinho@planoeplano.com.br | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✓
+2026-03-19 09:51:16 | INFO     | [8/60] Searching: DIASE CONSTRUTORA
+2026-03-19 09:51:17 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22DIASE%20CONSTRUTORA%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:51:17 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22DIASE+CONSTRUTORA%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:51:18 | INFO     | response: https://www.mojeek.com/search?q=%22DIASE+CONSTRUTORA%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:51:18 | INFO     | response: https://search.brave.com/search?q=%22DIASE+CONSTRUTORA%22+site+oficial+construtora+Brasil&source=web 200
+2026-03-19 09:51:18 | INFO     |   Found: https://www.diase.com.br/
+2026-03-19 09:51:18 | INFO     |   Found: https://www.diase.com.br/
+2026-03-19 09:51:24 | INFO     |   Email: transparencia@helloethics.com | WhatsApp: ✗ | Instagram: ✓ | LinkedIn: ✓
+2026-03-19 09:51:26 | INFO     | [9/60] Searching: DIÁLOGO ENGENHARIA
+2026-03-19 09:51:26 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22DI%C3%81LOGO%20ENGENHARIA%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:51:26 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22DI%C3%81LOGO+ENGENHARIA%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:51:27 | INFO     | response: https://html.duckduckgo.com/html/ 200
+2026-03-19 09:51:27 | INFO     |   Found: https://www.dialogo.com.br/
+2026-03-19 09:51:27 | INFO     |   Found: https://www.dialogo.com.br/
+2026-03-19 09:51:34 | INFO     |   Email: N/A | WhatsApp: ✗ | Instagram: ✓ | LinkedIn: ✓
+2026-03-19 09:51:36 | INFO     | [10/60] Searching: INC EMPREENDIMENTOS
+2026-03-19 09:51:36 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22INC%20EMPREENDIMENTOS%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:51:36 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22INC+EMPREENDIMENTOS%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:51:37 | INFO     | response: https://yandex.com/search/site/?text=%22INC+EMPREENDIMENTOS%22+site+oficial+construtora+Brasil&web=1&searchid=4314827 200
+2026-03-19 09:51:37 | INFO     |   Found: https://www.meuinc.com.br/
+2026-03-19 09:51:37 | INFO     |   Found: https://www.meuinc.com.br/
+2026-03-19 09:51:40 | INFO     |   Email: exemplo@email.com | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✓
+2026-03-19 09:51:42 | INFO     |   ♻️  Restarting browser context to free memory...
+2026-03-19 09:51:42 | INFO     | [11/60] Searching: CONSTRUTORA RIBEIRO CARAM
+2026-03-19 09:51:42 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22CONSTRUTORA%20RIBEIRO%20CARAM%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:51:43 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22CONSTRUTORA+RIBEIRO+CARAM%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:51:44 | INFO     | response: https://yandex.com/search/site/?text=%22CONSTRUTORA+RIBEIRO+CARAM%22+site+oficial+construtora+Brasil&web=1&searchid=5717752 200
+2026-03-19 09:51:44 | INFO     |   Found: https://rrcaram.com.br/
+2026-03-19 09:51:44 | INFO     |   Found: https://rrcaram.com.br/
+2026-03-19 09:51:53 | INFO     |   Email: N/A | WhatsApp: ✗ | Instagram: ✓ | LinkedIn: ✓
+2026-03-19 09:51:55 | INFO     | [12/60] Searching: CONSTRUTORA SOUSA ARAUJO
+2026-03-19 09:51:56 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22CONSTRUTORA%20SOUSA%20ARAUJO%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:51:56 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22CONSTRUTORA+SOUSA+ARAUJO%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:51:57 | INFO     | response: https://yandex.com/search/site/?text=%22CONSTRUTORA+SOUSA+ARAUJO%22+site+oficial+construtora+Brasil&web=1&searchid=7279459 200
+2026-03-19 09:51:57 | INFO     |   Found: https://sousaaraujo.com.br/
+2026-03-19 09:51:57 | INFO     |   Found: https://sousaaraujo.com.br/
+2026-03-19 09:52:00 | INFO     |   Email: N/A | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✓
+2026-03-19 09:52:02 | INFO     | [13/60] Searching: ECON CONSTRUTORA E INCORPORADORA
+2026-03-19 09:52:02 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22ECON%20CONSTRUTORA%20E%20INCORPORADORA%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:52:02 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22ECON+CONSTRUTORA+E+INCORPORADORA%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:52:03 | INFO     | response: https://www.mojeek.com/search?q=%22ECON+CONSTRUTORA+E+INCORPORADORA%22+site+oficial+construtora+Brasil 403
+2026-03-19 09:52:04 | INFO     | response: https://html.duckduckgo.com/html/ 200
+2026-03-19 09:52:04 | INFO     | response: https://www.google.com/search?q=%22ECON+CONSTRUTORA+E+INCORPORADORA%22+site+oficial+construtora+Brasil&filter=1&start=0&hl=en-US&lr=lang_en&cr=countryUS 403
+2026-03-19 09:52:05 | INFO     | response: https://search.brave.com/search?q=%22ECON+CONSTRUTORA+E+INCORPORADORA%22+site+oficial+construtora+Brasil&source=web 200
+2026-03-19 09:52:05 | INFO     |   Found: http://econ.plataformadevendas.com.br/
+2026-03-19 09:52:05 | INFO     |   Found: http://econ.plataformadevendas.com.br/
+2026-03-19 09:52:08 | INFO     |   Email: contato@plataformadevendas.com.br | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✓
+2026-03-19 09:52:10 | INFO     | [14/60] Searching: TOLEDO FERRARI
+2026-03-19 09:52:11 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22TOLEDO%20FERRARI%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:52:11 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22TOLEDO+FERRARI%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:52:11 | INFO     | response: https://www.google.com/search?q=%22TOLEDO+FERRARI%22+site+oficial+construtora+Brasil&filter=1&start=0&hl=en-US&lr=lang_en&cr=countryUS 403
+2026-03-19 09:52:12 | INFO     | response: https://html.duckduckgo.com/html/ 200
+2026-03-19 09:52:12 | INFO     |   Found: https://www.toledoferrari.com.br/
+2026-03-19 09:52:12 | INFO     |   Found: https://www.toledoferrari.com.br/
+2026-03-19 09:52:15 | INFO     |   Email: tfvendas@toledoferrari.com.br | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✓
+2026-03-19 09:52:17 | INFO     | [15/60] Searching: BRZ EMPREENDIMENTOS
+2026-03-19 09:52:17 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22BRZ+EMPREENDIMENTOS%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:52:17 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22BRZ%20EMPREENDIMENTOS%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:52:18 | INFO     | response: https://www.mojeek.com/search?q=%22BRZ+EMPREENDIMENTOS%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:52:18 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=BRZ%20EMPREENDIMENTOS%20construtora%20incorporadora%20Brasil 200
+2026-03-19 09:52:18 | INFO     | response: https://grokipedia.com/api/typeahead?query=BRZ+EMPREENDIMENTOS+construtora+incorporadora+Brasil&limit=1 200
+2026-03-19 09:52:19 | INFO     | response: https://html.duckduckgo.com/html/ 200
+2026-03-19 09:52:19 | INFO     |   Found: https://www.brzconstrutora.com.br/
+2026-03-19 09:52:19 | INFO     |   Found: https://www.brzconstrutora.com.br/
+2026-03-19 09:52:22 | INFO     |   Email: info@mysite.com | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✗
+2026-03-19 09:52:24 | INFO     | [16/60] Searching: PATRIMAR ENGENHARIA
+2026-03-19 09:52:24 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22PATRIMAR%20ENGENHARIA%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:52:24 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22PATRIMAR+ENGENHARIA%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:52:25 | INFO     | response: https://html.duckduckgo.com/html/ 200
+2026-03-19 09:52:26 | INFO     | response: https://yandex.com/showcaptcha?cc=1&form-fb-hint=8.148&mt=5044381E30850C0E615FFF13AFEE2349808E1FD2674332115166A5FA8E591DAA388DDFC4ACCF3B5874D7D0F8F6710510AD731DBF423172D103904B61FF6DAA166753EEBA08A02BEAF9802D4A77E2778EAA3E34B532DE9D7C19413F59A77E44588947BE87C0F4ABB60EFB79EAFD5E00629E47B9826DB7CA6781652ACDA338DEAD0ED69F8375B555B37E3282BF5BE2057D1A9CA511B46A016A92BA05809982AF0B7118D0834BF8448CAB85B25976AC5270CBA584B927A6962AFE7944B3CEF21096A22E67CE6B7E766B8D8EAE9ED533FE87EABF2B26826A9964C47BBD3D3B54FACA2A92785446A2D2F39BFBE444703D4101DF9AB7BE804C2E&retpath=aHR0cHM6Ly95YW5kZXguY29tL3NlYXJjaC9zaXRlP3RleHQ9JTIyUEFUUklNQVIrRU5HRU5IQVJJQSUyMitzaXRlK29maWNpYWwrY29uc3RydXRvcmErQnJhc2lsJndlYj0xJnNlYXJjaGlkPTg5MjcxODc%2C_0dee9d4df167c5942399647902856f6b&t=2%252F1773928346%252Fb7333e789e3e37eccd3dc3b09d950b91&u=8365851678961762335&s=5223cf17a39b3f47e3a51021e76fe925 200
+2026-03-19 09:52:27 | INFO     | response: https://www.mojeek.com/search?q=%22PATRIMAR+ENGENHARIA%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:52:27 | INFO     |   Found: https://www.patrimar.com.br/
+2026-03-19 09:52:27 | INFO     |   Found: https://www.patrimar.com.br/
+2026-03-19 09:52:32 | INFO     |   Email: N/A | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✗
+2026-03-19 09:52:34 | INFO     | [17/60] Searching: EMCCAMP RESIDENCIAL
+2026-03-19 09:52:34 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22EMCCAMP%20RESIDENCIAL%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:52:35 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22EMCCAMP+RESIDENCIAL%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:52:35 | INFO     | response: https://search.brave.com/search?q=%22EMCCAMP+RESIDENCIAL%22+site+oficial+construtora+Brasil&source=web 200
+2026-03-19 09:52:35 | INFO     |   Found: https://emccamp.com.br/
+2026-03-19 09:52:35 | INFO     |   Found: https://emccamp.com.br/
+2026-03-19 09:52:39 | INFO     |   Email: rachel@interfacecomunicacao.com.br | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✗
+2026-03-19 09:52:41 | INFO     | [18/60] Searching: ÁRBORE ENGENHARIA
+2026-03-19 09:52:41 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22%C3%81RBORE%20ENGENHARIA%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:52:41 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22%C3%81RBORE+ENGENHARIA%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:52:42 | INFO     | response: https://www.mojeek.com/search?q=%22%C3%81RBORE+ENGENHARIA%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:52:43 | INFO     | response: https://www.google.com/search?q=%22%C3%81RBORE+ENGENHARIA%22+site+oficial+construtora+Brasil&filter=1&start=0&hl=en-US&lr=lang_en&cr=countryUS 403
+2026-03-19 09:52:43 | INFO     | response: https://search.yahoo.com/search;_ylt=uyyANr693VezmCwUCTuM6cVz;_ylu=LhR_kYEDu5CQ55Db9JHvaowezkA0Bhxz7m0FBd1h-7EA24Q?p=%22%C3%81RBORE+ENGENHARIA%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:52:45 | INFO     | response: https://search.brave.com/search?q=%22%C3%81RBORE+ENGENHARIA%22+site+oficial+construtora+Brasil&source=web 200
+2026-03-19 09:52:45 | INFO     |   Found: https://arboreengenharia.com.br/
+2026-03-19 09:52:45 | INFO     |   Found: https://arboreengenharia.com.br/
+2026-03-19 09:52:57 | INFO     |   Email: contato@arboreengenharia.com.br | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✓
+2026-03-19 09:52:59 | INFO     | [19/60] Searching: CAPREM CONSTRUTORA
+2026-03-19 09:52:59 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22CAPREM%20CONSTRUTORA%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:53:00 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22CAPREM+CONSTRUTORA%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:53:00 | INFO     | response: https://search.yahoo.com/search;_ylt=fjqs1ajtLcT0Uk9GSjNk2bLC;_ylu=j3ZOyUZsrXDPCnWtJ57azcSymrXQeG_Rbfh38BccbqINFnQ?p=%22CAPREM+CONSTRUTORA%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:53:01 | INFO     | response: https://www.mojeek.com/search?q=%22CAPREM+CONSTRUTORA%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:53:02 | INFO     | response: https://search.brave.com/search?q=%22CAPREM+CONSTRUTORA%22+site+oficial+construtora+Brasil&source=web 200
+2026-03-19 09:53:02 | INFO     |   Found: https://www.caprem.com.br/
+2026-03-19 09:53:02 | INFO     |   Found: https://www.caprem.com.br/
+2026-03-19 09:53:08 | INFO     |   Email: N/A | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✓
+2026-03-19 09:53:10 | INFO     | [20/60] Searching: L. R. G. CONSTRUÇÕES E EMPREENDIMENTOS
+2026-03-19 09:53:10 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22L.%20R.%20G.%20CONSTRU%C3%87%C3%95ES%20E%20EMPREENDIMENTOS%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:53:11 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22L.+R.+G.+CONSTRU%C3%87%C3%95ES+E+EMPREENDIMENTOS%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:53:12 | INFO     | response: https://www.mojeek.com/search?q=%22L.+R.+G.+CONSTRU%C3%87%C3%95ES+E+EMPREENDIMENTOS%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:53:12 | INFO     |   Found: https://prefeitura.natal.br/
+2026-03-19 09:53:12 | INFO     |   Found: https://prefeitura.natal.br/
+2026-03-19 09:53:17 | INFO     |   Email: N/A | WhatsApp: ✗ | Instagram: ✓ | LinkedIn: ✗
+2026-03-19 09:53:19 | INFO     |   ♻️  Restarting browser context to free memory...
+2026-03-19 09:53:19 | INFO     | [21/60] Searching: MP CONSTRUTORA E INCORPORADORA
+2026-03-19 09:53:19 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22MP%20CONSTRUTORA%20E%20INCORPORADORA%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:53:20 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22MP+CONSTRUTORA+E+INCORPORADORA%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:53:20 | INFO     | response: https://www.google.com/search?q=%22MP+CONSTRUTORA+E+INCORPORADORA%22+site+oficial+construtora+Brasil&filter=1&start=0&hl=en-US&lr=lang_en&cr=countryUS 403
+2026-03-19 09:53:21 | INFO     | response: https://search.yahoo.com/search;_ylt=D8bcBNSWp2jGGN7nOzCjz_Vr;_ylu=7nIHT5K9V6zQWi_EWNxJKpTX5utBMyDUM3bNFRVwFuA6yaU?p=%22MP+CONSTRUTORA+E+INCORPORADORA%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:53:22 | INFO     | response: https://yandex.com/search/site/?text=%22MP+CONSTRUTORA+E+INCORPORADORA%22+site+oficial+construtora+Brasil&web=1&searchid=8308879 200
+2026-03-19 09:53:22 | INFO     |   Found: https://mpincorporadora.com.br/
+2026-03-19 09:53:22 | INFO     |   Found: https://mpincorporadora.com.br/
+2026-03-19 09:53:25 | INFO     |   Email: N/A | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✓
+2026-03-19 09:53:27 | INFO     | [22/60] Searching: RSF EMPREENDIMENTOS
+2026-03-19 09:53:28 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22RSF%20EMPREENDIMENTOS%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:53:28 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22RSF+EMPREENDIMENTOS%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:53:28 | INFO     | response: https://www.google.com/search?q=%22RSF+EMPREENDIMENTOS%22+site+oficial+construtora+Brasil&filter=1&start=0&hl=en-US&lr=lang_en&cr=countryUS 403
+2026-03-19 09:53:28 | INFO     | response: https://search.brave.com/search?q=%22RSF+EMPREENDIMENTOS%22+site+oficial+construtora+Brasil&source=web 429
+2026-03-19 09:53:30 | INFO     | response: https://yandex.com/search/site/?text=%22RSF+EMPREENDIMENTOS%22+site+oficial+construtora+Brasil&web=1&searchid=4659679 200
+2026-03-19 09:53:30 | INFO     |   Found: https://www.solutudo.com.br/
+2026-03-19 09:53:30 | INFO     |   Found: https://www.solutudo.com.br/
+2026-03-19 09:53:33 | INFO     |   Email: N/A | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✗
+2026-03-19 09:53:35 | INFO     | [23/60] Searching: CONSTRUTORA PLANETA
+2026-03-19 09:53:35 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22CONSTRUTORA%20PLANETA%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:53:35 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22CONSTRUTORA+PLANETA%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:53:36 | INFO     | response: https://search.yahoo.com/search;_ylt=8MmIrYNGgpsQ2bgQlDg9TYhK;_ylu=X8BAgiqzeoaUVSTvL8K1w4ZsGL6uiWxVfR4KLxN9ebU7C6Q?p=%22CONSTRUTORA+PLANETA%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:53:37 | INFO     | response: https://www.google.com/search?q=%22CONSTRUTORA+PLANETA%22+site+oficial+construtora+Brasil&filter=1&start=0&hl=en-US&lr=lang_en&cr=countryUS 403
+2026-03-19 09:53:38 | INFO     | response: https://yandex.com/showcaptcha?cc=1&form-fb-hint=8.148&mt=CC6BE9EFC6D8B63F80C4A61FD4ED71D294854BBF778639AD31E236C1E6B2CED2488F0F7C2ACD03C5EA43FC165A5F486845D7C7BE7072D996D6BB1E018F2C13CD0BDE28D26E4658A8E8913D147B2B369BFEAF157F2A37491FAA461141AA7C649F0E429C140F95182E9F1DB73AE8796A0ED6CF99FCE0A1C01AFD8B0500A4B2B3422B694E6AC63B61DDD4DA2010C62AEA0CCFF32E526D94F70585ABBB0931604FA32C24F21586D49A862FEB1AF839EC5CB75E248D18C883249E42FD0B5C0999D6F8FF4FE8B571AB23DABA9A49C157194E802BF774FEF9B14104D4C800B2EC81A528C387B258F3D2C68A7461CDF4F6D214F321CA9B3D91A685&retpath=aHR0cHM6Ly95YW5kZXguY29tL3NlYXJjaC9zaXRlP3RleHQ9JTIyQ09OU1RSVVRPUkErUExBTkVUQSUyMitzaXRlK29maWNpYWwrY29uc3RydXRvcmErQnJhc2lsJndlYj0xJnNlYXJjaGlkPTMyOTU2MzY%2C_327d94f8d6a65d32ce2641d2ddab2064&t=2%252F1773928417%252F684e329fea6b5ad3c0e1a3ed23055919&u=8365856491875270832&s=3060eacc52e6d4a143f6ca176f694d1a 200
+2026-03-19 09:53:39 | INFO     | response: https://html.duckduckgo.com/html/ 200
+2026-03-19 09:53:39 | INFO     |   Found: https://www.construtoraplaneta.com.br/
+2026-03-19 09:53:39 | INFO     |   Found: https://www.construtoraplaneta.com.br/
+2026-03-19 09:53:42 | INFO     |   Email: contato@construtoraplaneta.com.br | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✓
+2026-03-19 09:53:44 | INFO     | [24/60] Searching: UNITÀ ENGENHARIA
+2026-03-19 09:53:44 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22UNIT%C3%80+ENGENHARIA%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:53:44 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22UNIT%C3%80%20ENGENHARIA%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:53:45 | INFO     | response: https://www.mojeek.com/search?q=%22UNIT%C3%80+ENGENHARIA%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:53:46 | INFO     | response: https://www.google.com/search?q=%22UNIT%C3%80+ENGENHARIA%22+site+oficial+construtora+Brasil&filter=1&start=0&hl=en-US&lr=lang_en&cr=countryUS 403
+2026-03-19 09:53:47 | INFO     | response: https://yandex.com/search/site/?text=%22UNIT%C3%80+ENGENHARIA%22+site+oficial+construtora+Brasil&web=1&searchid=4855192 200
+2026-03-19 09:53:47 | INFO     |   Found: https://www.careerjet.com.br/
+2026-03-19 09:53:47 | INFO     |   Found: https://www.careerjet.com.br/
+2026-03-19 09:53:50 | INFO     |   Email: N/A | WhatsApp: ✗ | Instagram: ✗ | LinkedIn: ✗
+2026-03-19 09:53:52 | INFO     | [25/60] Searching: MAIS LAR
+2026-03-19 09:53:52 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22MAIS%20LAR%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:53:53 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22MAIS+LAR%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:53:53 | INFO     | response: https://search.brave.com/search?q=%22MAIS+LAR%22+site+oficial+construtora+Brasil&source=web 429
+2026-03-19 09:53:54 | INFO     | response: https://yandex.com/search/site/?text=%22MAIS+LAR%22+site+oficial+construtora+Brasil&web=1&searchid=8214503 200
+2026-03-19 09:53:54 | INFO     |   Found: https://www.solutudo.com.br/
+2026-03-19 09:53:54 | INFO     |   Found: https://www.solutudo.com.br/
+2026-03-19 09:53:56 | INFO     |   Email: N/A | WhatsApp: ✗ | Instagram: ✗ | LinkedIn: ✗
+2026-03-19 09:53:58 | INFO     | [26/60] Searching: PAFIL CONSTRUTORA E EMPREENDIMENTOS
+2026-03-19 09:53:59 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22PAFIL%20CONSTRUTORA%20E%20EMPREENDIMENTOS%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:53:59 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22PAFIL+CONSTRUTORA+E+EMPREENDIMENTOS%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:54:00 | INFO     | response: https://www.google.com/search?q=%22PAFIL+CONSTRUTORA+E+EMPREENDIMENTOS%22+site+oficial+construtora+Brasil&filter=1&start=0&hl=en-US&lr=lang_en&cr=countryUS 403
+2026-03-19 09:54:00 | INFO     | response: https://html.duckduckgo.com/html/ 200
+2026-03-19 09:54:01 | INFO     | response: https://search.brave.com/search?q=%22PAFIL+CONSTRUTORA+E+EMPREENDIMENTOS%22+site+oficial+construtora+Brasil&source=web 429
+2026-03-19 09:54:02 | INFO     | response: https://yandex.com/search/site/?text=%22PAFIL+CONSTRUTORA+E+EMPREENDIMENTOS%22+site+oficial+construtora+Brasil&web=1&searchid=2627130 200
+2026-03-19 09:54:02 | INFO     |   Found: https://www.pafil.com.br/
+2026-03-19 09:54:02 | INFO     |   Found: https://www.pafil.com.br/
+2026-03-19 09:54:07 | INFO     |   Email: N/A | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✓
+2026-03-19 09:54:09 | INFO     | [27/60] Searching: ADN CONSTRUTORA E INCORPORADORA
+2026-03-19 09:54:09 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22ADN%20CONSTRUTORA%20E%20INCORPORADORA%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:54:09 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22ADN+CONSTRUTORA+E+INCORPORADORA%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:54:10 | INFO     | response: https://search.yahoo.com/search;_ylt=1izk14vn5zTTGaVgqB1o8-b4;_ylu=x-8GuNKF2YYXHbF0OhXKa53SBYjkFopKnncNNN_PNhmsjKU?p=%22ADN+CONSTRUTORA+E+INCORPORADORA%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:54:11 | INFO     | response: https://www.google.com/search?q=%22ADN+CONSTRUTORA+E+INCORPORADORA%22+site+oficial+construtora+Brasil&filter=1&start=0&hl=en-US&lr=lang_en&cr=countryUS 403
+2026-03-19 09:54:12 | INFO     | response: https://html.duckduckgo.com/html/ 200
+2026-03-19 09:54:12 | INFO     | response: https://search.brave.com/search?q=%22ADN+CONSTRUTORA+E+INCORPORADORA%22+site+oficial+construtora+Brasil&source=web 429
+2026-03-19 09:54:13 | INFO     | response: https://yandex.com/search/site/?text=%22ADN+CONSTRUTORA+E+INCORPORADORA%22+site+oficial+construtora+Brasil&web=1&searchid=9341420 200
+2026-03-19 09:54:13 | INFO     |   Found: https://www.saocarlosoficial.com.br/
+2026-03-19 09:54:13 | INFO     |   Found: https://www.saocarlosoficial.com.br/
+2026-03-19 09:54:23 | WARNING  |   Error on https://www.saocarlosoficial.com.br/: Page.content: Target crashed 
+2026-03-19 09:54:23 | INFO     |   Email: N/A | WhatsApp: ✗ | Instagram: ✗ | LinkedIn: ✗
+2026-03-19 09:54:25 | INFO     | [28/60] Searching: PORTO FERRAZ
+2026-03-19 09:54:26 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22PORTO%20FERRAZ%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:54:26 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22PORTO+FERRAZ%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:54:27 | INFO     | response: https://html.duckduckgo.com/html/ 200
+2026-03-19 09:54:27 | INFO     |   Found: https://portoferraz.com.br/
+2026-03-19 09:54:27 | INFO     |   Found: https://portoferraz.com.br/
+2026-03-19 09:54:27 | WARNING  |   Error on https://portoferraz.com.br/: Page.goto: Page crashed
+Call log:
+  - navigating to "https://portoferraz.com.br/", waiting until "domcontentloaded"
+
+2026-03-19 09:54:27 | INFO     |   Email: N/A | WhatsApp: ✗ | Instagram: ✗ | LinkedIn: ✗
+2026-03-19 09:54:29 | INFO     | [29/60] Searching: ECOVITA
+2026-03-19 09:54:29 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22ECOVITA%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:54:29 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22ECOVITA%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:54:30 | INFO     | response: https://www.mojeek.com/search?q=%22ECOVITA%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:54:30 | INFO     | response: https://search.brave.com/search?q=%22ECOVITA%22+site+oficial+construtora+Brasil&source=web 429
+2026-03-19 09:54:32 | INFO     | response: https://yandex.com/showcaptcha?cc=1&form-fb-hint=8.148&mt=FEBF2C7ADE542260FCF6AA518BD8E6E04DA6F7FB3C7A487E4A4559FC03A151C41B463FDA7B0357141F37D6D84D07CC4602B908729F6EFE529A28C28E528674A58456B4303A39AE25CB85FC4EEDA3F4B043AFD3AABB58F75C08AFCA77F141019646F47598093ABF3D315270F2DF4DFBBC018A3868B24EAAE2557C9D671282FB803B2B263424B2193452677CDC8A5CC42E6086A85038F56FF6A26CD0462AA3B7A19984FA0053246E642F3792641A553AE20A330205A5DE048A4AC82FD68126431EDBBC941897D77CFAE40C16B2942E9DE2FCFA0CD3926E54B6541E3666A0683DE70D04B0CDCFFDBE76ED0FB7E89BAEBBAF35BAE441DA9319&retpath=aHR0cHM6Ly95YW5kZXguY29tL3NlYXJjaC9zaXRlP3RleHQ9JTIyRUNPVklUQSUyMitzaXRlK29maWNpYWwrY29uc3RydXRvcmErQnJhc2lsJndlYj0xJnNlYXJjaGlkPTcwMDAxOTg%2C_65c6829e6961a5dcf82dcad7526c81c1&t=2%252F1773928471%252F4db7920ca025751bed824e9310d23caf&u=8365860086964224146&s=44a7f553ed680c19a27e986474dcf0ca 200
+2026-03-19 09:54:32 | INFO     | response: https://www.google.com/search?q=%22ECOVITA%22+site+oficial+construtora+Brasil&filter=1&start=0&hl=en-US&lr=lang_en&cr=countryUS 403
+2026-03-19 09:54:33 | INFO     | response: https://html.duckduckgo.com/html/ 200
+2026-03-19 09:54:33 | INFO     |   Found: https://ecovitaconstrutora.com.br/
+2026-03-19 09:54:33 | INFO     |   Found: https://ecovitaconstrutora.com.br/
+2026-03-19 09:54:33 | WARNING  |   Error on https://ecovitaconstrutora.com.br/: Page.goto: Page crashed
+Call log:
+  - navigating to "https://ecovitaconstrutora.com.br/", waiting until "domcontentloaded"
+
+2026-03-19 09:54:33 | INFO     |   Email: N/A | WhatsApp: ✗ | Instagram: ✗ | LinkedIn: ✗
+2026-03-19 09:54:35 | INFO     | [30/60] Searching: C.A.C ENGENHARIA
+2026-03-19 09:54:35 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22C.A.C%20ENGENHARIA%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:54:35 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22C.A.C+ENGENHARIA%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:54:36 | INFO     | response: https://search.yahoo.com/search;_ylt=wQGOAOsidxTGFELTDNEKg_Sc;_ylu=sdwLhO_y9iyiW6UWsSSyKgWS9eAQDXM6sg3BahW2Nz_0R4w?p=%22C.A.C+ENGENHARIA%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:54:36 | INFO     |   Found: https://www.cacengenharia.com.br/
+2026-03-19 09:54:36 | INFO     |   Found: https://www.cacengenharia.com.br/
+2026-03-19 09:54:36 | WARNING  |   Error on https://www.cacengenharia.com.br/: Page.goto: Page crashed
+Call log:
+  - navigating to "https://www.cacengenharia.com.br/", waiting until "domcontentloaded"
+
+2026-03-19 09:54:36 | INFO     |   Email: N/A | WhatsApp: ✗ | Instagram: ✗ | LinkedIn: ✗
+2026-03-19 09:54:38 | INFO     |   ♻️  Restarting browser context to free memory...
+2026-03-19 09:54:38 | INFO     | [31/60] Searching: HABRAS CONSTRUTORA E INCORPORADORA
+2026-03-19 09:54:39 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22HABRAS%20CONSTRUTORA%20E%20INCORPORADORA%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:54:39 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22HABRAS+CONSTRUTORA+E+INCORPORADORA%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:54:40 | INFO     | response: https://www.mojeek.com/search?q=%22HABRAS+CONSTRUTORA+E+INCORPORADORA%22+site+oficial+construtora+Brasil 403
+2026-03-19 09:54:40 | INFO     | response: https://search.brave.com/search?q=%22HABRAS+CONSTRUTORA+E+INCORPORADORA%22+site+oficial+construtora+Brasil&source=web 429
+2026-03-19 09:54:40 | INFO     | response: https://search.yahoo.com/search;_ylt=vLvDZqgOfIM2wIe4doAegPFP;_ylu=_jFmN7lpZvAn9lpid61yFZDwaU7FMBIutz8UE_GV4iMqBHA?p=%22HABRAS+CONSTRUTORA+E+INCORPORADORA%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:54:41 | INFO     | response: https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3D%2522HABRAS%2BCONSTRUTORA%2BE%2BINCORPORADORA%2522%2Bsite%2Boficial%2Bconstrutora%2BBrasil%26filter%3D1%26start%3D0%26hl%3Den-US%26lr%3Dlang_en%26cr%3DcountryUS&hl=en-US&q=EhAoBBgI_wAK5PWGpnXA2IqVGKGA8M0GIjA_tx5IS4tNkD8pS1vb8iPozeZlJrtozz20cWUTIdCeJD6fJ-59w-siiCmOyFhIldwyAnJSWgFD 429
+2026-03-19 09:54:42 | INFO     | response: https://yandex.com/search/site/?text=%22HABRAS+CONSTRUTORA+E+INCORPORADORA%22+site+oficial+construtora+Brasil&web=1&searchid=1154144 200
+2026-03-19 09:54:42 | INFO     |   Found: https://www.habrasconstrutora.com.br/
+2026-03-19 09:54:42 | INFO     |   Found: https://www.habrasconstrutora.com.br/
+2026-03-19 09:54:47 | INFO     |   Email: contato@habrasconstrutora.com.br | WhatsApp: ✗ | Instagram: ✓ | LinkedIn: ✓
+2026-03-19 09:54:49 | INFO     | [32/60] Searching: CONSTRIX ENGENHARIA
+2026-03-19 09:54:49 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22CONSTRIX+ENGENHARIA%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:54:49 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22CONSTRIX%20ENGENHARIA%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:54:50 | INFO     | response: https://search.brave.com/search?q=%22CONSTRIX+ENGENHARIA%22+site+oficial+construtora+Brasil&source=web 429
+2026-03-19 09:54:51 | INFO     | response: https://yandex.com/showcaptcha?cc=1&form-fb-hint=8.148&mt=CAB728B22564F09BC62733FB3F3FD617D34B60460C337EA6471A6CF9AAF448AF0A714B02A495730D39F180C628A832C77521F8918709A67412D46C7C85027BB85A619578D0443D98CC84D90B20443191DFD42662A403538DEF62FD1375D1BC23397364D7177463773E0A638FAC02E27499D47B12BB977C756EEA715800A804A21A9048ECCDB91D7B189E4C65519FBA1EEFB20B858ABA07E3CA4285C70D1AA1A7799F244DF8B81E5DE0A5092D10C6DD1154B78C005D03D78C01AC7FBDBBBF96B96706D3F681A1FE2647E13BE07CEC67D04F8F81990277EDD6553769070F57E3482390DE5A9BE34217686BE1E3D9E3A7EDE0C65FC07EDB99&retpath=aHR0cHM6Ly95YW5kZXguY29tL3NlYXJjaC9zaXRlP3RleHQ9JTIyQ09OU1RSSVgrRU5HRU5IQVJJQSUyMitzaXRlK29maWNpYWwrY29uc3RydXRvcmErQnJhc2lsJndlYj0xJnNlYXJjaGlkPTk1NDY5NDI%2C_b5be4e68be8be68d72730949df46558a&t=2%252F1773928490%252Ffcebde10e0fecc69602e4b388d823729&u=8365861366260498597&s=f078192006e68e9a16ea75e0ef88b8d6 200
+2026-03-19 09:54:51 | INFO     | response: https://www.mojeek.com/search?q=%22CONSTRIX+ENGENHARIA%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:54:52 | INFO     | response: https://www.google.com/search?q=%22CONSTRIX+ENGENHARIA%22+site+oficial+construtora+Brasil&filter=1&start=0&hl=en-US&lr=lang_en&cr=countryUS 403
+2026-03-19 09:54:53 | INFO     | response: https://html.duckduckgo.com/html/ 200
+2026-03-19 09:54:53 | INFO     |   Found: https://www.constrixengenharia.com.br/
+2026-03-19 09:54:53 | INFO     |   Found: https://www.constrixengenharia.com.br/
+2026-03-19 09:54:58 | INFO     |   Email: N/A | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✗
+2026-03-19 09:55:00 | INFO     | [33/60] Searching: PORTE ENGENHARIA E URBANISMO
+2026-03-19 09:55:01 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22PORTE%20ENGENHARIA%20E%20URBANISMO%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:55:01 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22PORTE+ENGENHARIA+E+URBANISMO%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:55:01 | INFO     | response: https://www.google.com/search?q=%22PORTE+ENGENHARIA+E+URBANISMO%22+site+oficial+construtora+Brasil&filter=1&start=0&hl=en-US&lr=lang_en&cr=countryUS 403
+2026-03-19 09:55:02 | INFO     | response: https://yandex.com/search/site/?text=%22PORTE+ENGENHARIA+E+URBANISMO%22+site+oficial+construtora+Brasil&web=1&searchid=2236876 200
+2026-03-19 09:55:03 | INFO     | response: https://search.yahoo.com/search;_ylt=hVqtyipw3u-_BC3v6np5tecN;_ylu=MW8qkABySIqnOjQKbmwDYnSMjUjw6vytVc53dFTocjSRUzQ?p=%22PORTE+ENGENHARIA+E+URBANISMO%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:55:04 | INFO     | response: https://search.brave.com/search?q=%22PORTE+ENGENHARIA+E+URBANISMO%22+site+oficial+construtora+Brasil&source=web 429
+2026-03-19 09:55:04 | INFO     | response: https://www.mojeek.com/search?q=%22PORTE+ENGENHARIA+E+URBANISMO%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:55:05 | INFO     | response: https://grokipedia.com/api/typeahead?query=PORTE+ENGENHARIA+E+URBANISMO+construtora+incorporadora+Brasil&limit=1 200
+2026-03-19 09:55:05 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=PORTE%20ENGENHARIA%20E%20URBANISMO%20construtora%20incorporadora%20Brasil 200
+2026-03-19 09:55:06 | INFO     | response: https://yandex.com/search/site/?text=PORTE+ENGENHARIA+E+URBANISMO+construtora+incorporadora+Brasil&web=1&searchid=9883138 200
+2026-03-19 09:55:06 | INFO     |   Found: https://www.corretoradeimoveisrosana.com.br/
+2026-03-19 09:55:06 | INFO     |   Found: https://www.corretoradeimoveisrosana.com.br/
+2026-03-19 09:55:10 | INFO     |   Email: N/A | WhatsApp: ✗ | Instagram: ✗ | LinkedIn: ✗
+2026-03-19 09:55:12 | INFO     | [34/60] Searching: IBEN ENGENHARIA LTDA
+2026-03-19 09:55:12 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22IBEN%20ENGENHARIA%20LTDA%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:55:13 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22IBEN+ENGENHARIA+LTDA%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:55:13 | INFO     | response: https://www.mojeek.com/search?q=%22IBEN+ENGENHARIA+LTDA%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:55:14 | INFO     | response: https://search.yahoo.com/search;_ylt=FPMFMu6oFprOrCkQWWSVvANZ;_ylu=8sqrIebg3qnydwVlKnuI-_tdQPWBfRUX0v3V7V7a3srngqM?p=%22IBEN+ENGENHARIA+LTDA%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:55:15 | INFO     | response: https://search.brave.com/search?q=%22IBEN+ENGENHARIA+LTDA%22+site+oficial+construtora+Brasil&source=web 429
+2026-03-19 09:55:16 | INFO     | response: https://html.duckduckgo.com/html/ 200
+2026-03-19 09:55:17 | INFO     | response: https://yandex.com/search/site/?text=%22IBEN+ENGENHARIA+LTDA%22+site+oficial+construtora+Brasil&web=1&searchid=3097861 200
+2026-03-19 09:55:17 | INFO     |   Found: https://b2bleads.com.br/
+2026-03-19 09:55:17 | INFO     |   Found: https://b2bleads.com.br/
+2026-03-19 09:55:20 | INFO     |   Email: N/A | WhatsApp: ✗ | Instagram: ✓ | LinkedIn: ✓
+2026-03-19 09:55:22 | INFO     | [35/60] Searching: MAXIMO ALDANA
+2026-03-19 09:55:22 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22MAXIMO%20ALDANA%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:55:22 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22MAXIMO+ALDANA%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:55:23 | INFO     | response: https://www.mojeek.com/search?q=%22MAXIMO+ALDANA%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:55:24 | INFO     | response: https://www.google.com/search?q=%22MAXIMO+ALDANA%22+site+oficial+construtora+Brasil&filter=1&start=0&hl=en-US&lr=lang_en&cr=countryUS 403
+2026-03-19 09:55:24 | INFO     | response: https://search.brave.com/search?q=%22MAXIMO+ALDANA%22+site+oficial+construtora+Brasil&source=web 429
+2026-03-19 09:55:25 | INFO     | response: https://yandex.com/showcaptcha?cc=1&form-fb-hint=8.148&mt=7AA351A8BFE4874EB7AD46C00FAAB8A4CAAA2260AB2046A76E8778A24187010134AB6A1A24F69B77EF3BCC9B100E63A8021C6288B42D8ECB524AFA96F62E20BC3BDC50B5217F6764DE6AC3878173E4537C8E96C45654D43EBB738179C624E93EAADD542F7CD90FAE9D8CBAFAB1D176BA59BEF8D52695D8671FB41C10910531689774A90C57088BD81334E7421BA9D622D16478F8C871C8ACA2FB3E6D52329C27A56866863C2868EED4E14FB540384F4103BB1C493EE9A3A77FEC79A2E8EE26ED8EE82119FA93E74A92637A01ED6B8BC07B73E75417C2D9803A20AF8DD5D0AFC813C2F5F1B29E7A342C350604F022512E6808D2CEC4EABF&retpath=aHR0cHM6Ly95YW5kZXguY29tL3NlYXJjaC9zaXRlP3RleHQ9JTIyTUFYSU1PK0FMREFOQSUyMitzaXRlK29maWNpYWwrY29uc3RydXRvcmErQnJhc2lsJndlYj0xJnNlYXJjaGlkPTMyMTAwMDY%2C_88eec37186dbf2abda816af5204fee1f&t=2%252F1773928524%252F849a9afbbe6a6d096e145cb3ed75ecae&u=8365863666551029886&s=b920d7e52b490375a4872145d000100e 200
+2026-03-19 09:55:26 | INFO     | response: https://html.duckduckgo.com/html/ 200
+2026-03-19 09:55:26 | INFO     |   Found: https://maximoaldana.com.br/
+2026-03-19 09:55:26 | INFO     |   Found: https://maximoaldana.com.br/
+2026-03-19 09:55:31 | INFO     |   Email: N/A | WhatsApp: ✗ | Instagram: ✓ | LinkedIn: ✓
+2026-03-19 09:55:33 | INFO     | [36/60] Searching: LONGITUDE INCORPORAÇÃO E URBANISMO LTDA
+2026-03-19 09:55:33 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22LONGITUDE%20INCORPORA%C3%87%C3%83O%20E%20URBANISMO%20LTDA%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:55:33 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22LONGITUDE+INCORPORA%C3%87%C3%83O+E+URBANISMO+LTDA%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:55:34 | INFO     | response: https://search.brave.com/search?q=%22LONGITUDE+INCORPORA%C3%87%C3%83O+E+URBANISMO+LTDA%22+site+oficial+construtora+Brasil&source=web 429
+2026-03-19 09:55:35 | INFO     | response: https://yandex.com/showcaptcha?cc=1&form-fb-hint=8.148&mt=BC59B2F58EF1DB7ED083F8B7D41E25A1FBE230FB1671DA6CB62C24F419F3D31245B16BC4B7F1E08AB0ABB05950B4B2050129AC91AC47BBEC5E9969E02367F9699D10F2C0904FD59643BC7D7C93D4A312875E533BD663628893205B605D64438A8114B996746F85DFEAE798AE1BB618F4579F73AB0EDDA9B59AA480011CFC74E1C0F5DFDB3C8D31AA91D2515560792C12ABD74E24630828174D909A682E7B9A86E080F7391C8D3344ECF440A48433F625556822ACAAA241C79BA54FBC5F9869679FBBA26C6032FEAAA03A885A8D19B222B92E1529E096069041B6E43EB302C970982545B67A3C6B0AC66AC919B81BF1012B55E040C72EF4&retpath=aHR0cHM6Ly95YW5kZXguY29tL3NlYXJjaC9zaXRlP3RleHQ9JTIyTE9OR0lUVURFK0lOQ09SUE9SQSVDMyU4NyVDMyU4M08rRStVUkJBTklTTU8rTFREQSUyMitzaXRlK29maWNpYWwrY29uc3RydXRvcmErQnJhc2lsJndlYj0xJnNlYXJjaGlkPTQ4MzM0NTM%2C_70e4772b862c6eac32c97de30180ba6a&t=2%252F1773928534%252Fcac229904c88e0bfa76caddcdf976a17&u=8365864333747355692&s=788e29d6a1cd77d61ae67b7f9e9955a1 200
+2026-03-19 09:55:35 | INFO     | response: https://search.yahoo.com/search;_ylt=1WYEO4sn3kmDW3pCW5YK60I2;_ylu=5TWsrBeDdTHZGqkEL_vmkGu7cbF2SNpYinoHAJ9JyzyfN80?p=%22LONGITUDE+INCORPORA%C3%87%C3%83O+E+URBANISMO+LTDA%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:55:36 | INFO     | response: https://www.mojeek.com/search?q=%22LONGITUDE+INCORPORA%C3%87%C3%83O+E+URBANISMO+LTDA%22+site+oficial+construtora+Brasil 403
+2026-03-19 09:55:37 | INFO     | response: https://www.google.com/search?q=%22LONGITUDE+INCORPORA%C3%87%C3%83O+E+URBANISMO+LTDA%22+site+oficial+construtora+Brasil&filter=1&start=0&hl=en-US&lr=lang_en&cr=countryUS 403
+2026-03-19 09:55:37 | INFO     |   Found: https://www.longitude.com.br/
+2026-03-19 09:55:37 | INFO     |   Found: https://www.longitude.com.br/
+2026-03-19 09:55:41 | INFO     |   Email: N/A | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✓
+2026-03-19 09:55:43 | INFO     | [37/60] Searching: GRAAL ENGENHARIA
+2026-03-19 09:55:43 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22GRAAL%20ENGENHARIA%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:55:44 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22GRAAL+ENGENHARIA%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:55:44 | INFO     | response: https://search.brave.com/search?q=%22GRAAL+ENGENHARIA%22+site+oficial+construtora+Brasil&source=web 429
+2026-03-19 09:55:45 | INFO     | response: https://yandex.com/search/site/?text=%22GRAAL+ENGENHARIA%22+site+oficial+construtora+Brasil&web=1&searchid=1514084 200
+2026-03-19 09:55:45 | INFO     |   Found: https://graalengenharia.com.br/
+2026-03-19 09:55:45 | INFO     |   Found: https://graalengenharia.com.br/
+2026-03-19 09:55:49 | INFO     |   Email: N/A | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✗
+2026-03-19 09:55:51 | INFO     | [38/60] Searching: CREDLAR CONSTRUTORA
+2026-03-19 09:55:51 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22CREDLAR%20CONSTRUTORA%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:55:51 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22CREDLAR+CONSTRUTORA%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:55:52 | INFO     | response: https://www.mojeek.com/search?q=%22CREDLAR+CONSTRUTORA%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:55:53 | INFO     | response: https://search.brave.com/search?q=%22CREDLAR+CONSTRUTORA%22+site+oficial+construtora+Brasil&source=web 429
+2026-03-19 09:55:53 | INFO     | response: https://html.duckduckgo.com/html/ 200
+2026-03-19 09:55:53 | INFO     |   Found: https://www.credlarconstrutora.com.br/
+2026-03-19 09:55:53 | INFO     |   Found: https://www.credlarconstrutora.com.br/
+2026-03-19 09:55:58 | INFO     |   Email: vendas@credlarconstrutora.com.br | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✗
+2026-03-19 09:56:00 | INFO     | [39/60] Searching: PERPLAN INCORPORAÇÃO
+2026-03-19 09:56:01 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22PERPLAN%20INCORPORA%C3%87%C3%83O%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:56:01 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22PERPLAN+INCORPORA%C3%87%C3%83O%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:56:02 | INFO     | response: https://yandex.com/search/site/?text=%22PERPLAN+INCORPORA%C3%87%C3%83O%22+site+oficial+construtora+Brasil&web=1&searchid=4036106 200
+2026-03-19 09:56:02 | INFO     |   Found: https://sampi.net.br/
+2026-03-19 09:56:02 | INFO     |   Found: https://sampi.net.br/
+2026-03-19 09:56:05 | INFO     |   Email: N/A | WhatsApp: ✗ | Instagram: ✓ | LinkedIn: ✗
+2026-03-19 09:56:07 | INFO     | [40/60] Searching: TARRAF INCORPORADORA
+2026-03-19 09:56:08 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22TARRAF+INCORPORADORA%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:56:08 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22TARRAF%20INCORPORADORA%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:56:08 | INFO     | response: https://www.mojeek.com/search?q=%22TARRAF+INCORPORADORA%22+site+oficial+construtora+Brasil 403
+2026-03-19 09:56:09 | INFO     | response: https://search.yahoo.com/search;_ylt=3ya8mEZsP2xal7LIR1Ql6fOm;_ylu=f5zBCuIadvCiy3D7iuI_2JPESAUK-SQjjqiMxrTYDdffgRw?p=%22TARRAF+INCORPORADORA%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:56:11 | INFO     | response: https://yandex.com/search/site/?text=%22TARRAF+INCORPORADORA%22+site+oficial+construtora+Brasil&web=1&searchid=8769076 200
+2026-03-19 09:56:11 | INFO     |   Found: https://tarraf.com.br/
+2026-03-19 09:56:11 | INFO     |   Found: https://tarraf.com.br/
+2026-03-19 09:56:13 | INFO     |   Email: N/A | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✓
+2026-03-19 09:56:15 | INFO     |   ♻️  Restarting browser context to free memory...
+2026-03-19 09:56:15 | INFO     | [41/60] Searching: ZARIN
+2026-03-19 09:56:16 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22ZARIN%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:56:16 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22ZARIN%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:56:17 | INFO     | response: https://www.mojeek.com/search?q=%22ZARIN%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:56:18 | INFO     | response: https://html.duckduckgo.com/html/ 200
+2026-03-19 09:56:18 | INFO     |   Found: https://grupozarin.com.br/
+2026-03-19 09:56:18 | INFO     |   Found: https://grupozarin.com.br/
+2026-03-19 09:56:22 | INFO     |   Email: contato@grupozarin.com.br | WhatsApp: ✗ | Instagram: ✓ | LinkedIn: ✓
+2026-03-19 09:56:24 | INFO     | [42/60] Searching: GALWAN
+2026-03-19 09:56:24 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22GALWAN%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:56:24 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22GALWAN%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:56:25 | INFO     | response: https://search.yahoo.com/search;_ylt=1-i6MSGZX0s3WXIEbmhCPrtO;_ylu=Bro6GzpM2ujNjVFjjGH_cPapo_2BiNTQ1T3DiU11KFgT30U?p=%22GALWAN%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:56:26 | INFO     | response: https://search.brave.com/search?q=%22GALWAN%22+site+oficial+construtora+Brasil&source=web 429
+2026-03-19 09:56:27 | INFO     | response: https://yandex.com/showcaptcha?cc=1&form-fb-hint=8.148&mt=8F3E47FA2BF7590CE2F3BD08212593AA522B25FB8E1887279FA8EACFD81794FF91B9EDA9B44010BD425C13234585286D8EB64005BA493C0B020038F3DF3E9CA3E5F61BB915A8A7B24C278E2890FBC34DA940A50A4854131322B742B544C895BF20EC299A3271567EDFC68E517F041A32BCFAA06C9536BF183BAD4E30B94717E434ADF69E8C98B69ED35A356B626350F1FA8D7A932FD010C9ADE5D02AD054005EED7D849172704B8E8519AFF7597E5A062DD588AAE453EB3DFAE8629EFD5C347D9E57806A02A4ABAA10CE3B29C243ACC40B88D744A21E8E082E4E43E8A02A60D141E28B535DFBCC5EE39E701FC57A2D359B160744185110&retpath=aHR0cHM6Ly95YW5kZXguY29tL3NlYXJjaC9zaXRlP3RleHQ9JTIyR0FMV0FOJTIyK3NpdGUrb2ZpY2lhbCtjb25zdHJ1dG9yYStCcmFzaWwmd2ViPTEmc2VhcmNoaWQ9NTc3NjQ4Nw%2C%2C_4dd8e65900f81a5d475146c792b5721a&t=2%252F1773928586%252F64287c16289dc63d8e42ec6cf275685f&u=8365867823542501579&s=f5f3f2e80bcb762c05feacdeacd272ea 200
+2026-03-19 09:56:28 | INFO     | response: https://www.mojeek.com/search?q=%22GALWAN%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:56:28 | INFO     | response: https://www.google.com/search?q=%22GALWAN%22+site+oficial+construtora+Brasil&filter=1&start=0&hl=en-US&lr=lang_en&cr=countryUS 403
+2026-03-19 09:56:28 | INFO     |   Found: https://galwan.com.br/
+2026-03-19 09:56:28 | INFO     |   Found: https://galwan.com.br/
+2026-03-19 09:56:31 | INFO     |   Email: N/A | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✓
+2026-03-19 09:56:33 | INFO     | [43/60] Searching: MZ3 ENGENHARIA
+2026-03-19 09:56:33 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22MZ3%20ENGENHARIA%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:56:34 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22MZ3+ENGENHARIA%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:56:34 | INFO     | response: https://www.google.com/search?q=%22MZ3+ENGENHARIA%22+site+oficial+construtora+Brasil&filter=1&start=0&hl=en-US&lr=lang_en&cr=countryUS 403
+2026-03-19 09:56:35 | INFO     | response: https://search.yahoo.com/search;_ylt=iAoaWbx9vhz_1tkNVDpTRy1s;_ylu=YUgrbT_Oyn8Tci1BAodBgQh2KTQqw8hrTGNP7igytPmiiuQ?p=%22MZ3+ENGENHARIA%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:56:36 | INFO     | response: https://yandex.com/search/site/?text=%22MZ3+ENGENHARIA%22+site+oficial+construtora+Brasil&web=1&searchid=6544039 200
+2026-03-19 09:56:37 | INFO     |   Found: https://mz3engenharia.com.br/
+2026-03-19 09:56:37 | INFO     |   Found: https://mz3engenharia.com.br/
+2026-03-19 09:56:50 | INFO     |   Email: contato@mz3engenharia.com.br | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✓
+2026-03-19 09:56:52 | INFO     | [44/60] Searching: GNG ENGENHARIA
+2026-03-19 09:56:52 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22GNG%20ENGENHARIA%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:56:53 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22GNG+ENGENHARIA%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:56:53 | INFO     | response: https://search.yahoo.com/search;_ylt=scwV0Trjotue9k3Ru0UkUq_U;_ylu=VZ3Obj5nfmAGlQ_UXZrxLR2lSfsYH6Sue1jNvdGCnVfsCm4?p=%22GNG+ENGENHARIA%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:56:54 | INFO     | response: https://www.mojeek.com/search?q=%22GNG+ENGENHARIA%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:56:55 | INFO     | response: https://search.brave.com/search?q=%22GNG+ENGENHARIA%22+site+oficial+construtora+Brasil&source=web 429
+2026-03-19 09:56:55 | INFO     | response: https://www.google.com/search?q=%22GNG+ENGENHARIA%22+site+oficial+construtora+Brasil&filter=1&start=0&hl=en-US&lr=lang_en&cr=countryUS 403
+2026-03-19 09:56:56 | INFO     | response: https://yandex.com/showcaptcha?cc=1&form-fb-hint=8.148&mt=EBFCE7F6516F15FD154E052CD7609EC2E94AB63696943D537AD354B752438EDD06D8862CA80BB136143DD71F7F6A69214536158C69A65470FFAF6924E734E8473A9923103A05695E9C2205C36C22ADABEECA066B8961FF1A45313008DEADCC557CDD575BEB50573374DCE5AFF11E96C78948780863BB0A0E022F95910E9B077FC0010A9662B0BF6D631AF458ECE63F34B8D16C65C8F912AA3B43BBE0052873773DD621E1C41A3ADBDF354971C3394A05E6B96C517340E5770A9339631F86C09874B9889D89B430417D39349D3C009656A1D5DC024DEBA842974152ADEFE00D638647270BAFE294B7A1DA328CC631B19357835C12650569&retpath=aHR0cHM6Ly95YW5kZXguY29tL3NlYXJjaC9zaXRlP3RleHQ9JTIyR05HK0VOR0VOSEFSSUElMjIrc2l0ZStvZmljaWFsK2NvbnN0cnV0b3JhK0JyYXNpbCZ3ZWI9MSZzZWFyY2hpZD0zMjU3NDk0_b97d9876ab41c41f97d885744fd4f3c9&t=2%252F1773928616%252Fb6d48fe9cd17c07a2943ded55b4cc87b&u=8365869808220045399&s=29034e71408671b51460ec3d4aeea2a0 200
+2026-03-19 09:56:56 | INFO     |   Found: https://www.gng.com.br/
+2026-03-19 09:56:56 | INFO     |   Found: https://www.gng.com.br/
+2026-03-19 09:57:01 | INFO     |   Email: N/A | WhatsApp: ✗ | Instagram: ✓ | LinkedIn: ✓
+2026-03-19 09:57:03 | INFO     | [45/60] Searching: MBIGUCCI CONSTRUTORA
+2026-03-19 09:57:03 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22MBIGUCCI%20CONSTRUTORA%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:57:04 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22MBIGUCCI+CONSTRUTORA%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:57:04 | INFO     | response: https://search.brave.com/search?q=%22MBIGUCCI+CONSTRUTORA%22+site+oficial+construtora+Brasil&source=web 429
+2026-03-19 09:57:05 | INFO     | response: https://yandex.com/showcaptcha?cc=1&form-fb-hint=8.148&mt=729B793D3D7FB222DAA4318026D5A14CAF5EA0690E28E6B7D15180748002F566E9FEDA525E593557C5DC9119FF278D7010E9CEDDB6CA1DDB7A836821E355D13990552AAB289BC84B964C6C12D790A6EEAF0EBF3BAC1F7F500421E56489B5061E242E483FBF79F47EF87C40302879BF496C97FCB4AA259B116C0A6FCED633E6DBD937F0D54CF48B6E9DE5FCD6A148476521A497EBD920E426B2D951DAAC3EC2B85F912E668045F666B5A2F7E6B5E9A8293853966D2BB6D606D0BFD3CC53FABFC44E41846DB5A1571B11329CF84BB59B11E986356CE55D082A7F7D82245BDDE0C86805BEF2B97FC565223B9C00036B4772C1C8DD233D50B4&retpath=aHR0cHM6Ly95YW5kZXguY29tL3NlYXJjaC9zaXRlP3RleHQ9JTIyTUJJR1VDQ0krQ09OU1RSVVRPUkElMjIrc2l0ZStvZmljaWFsK2NvbnN0cnV0b3JhK0JyYXNpbCZ3ZWI9MSZzZWFyY2hpZD0yMzkxMzA0_6c57dd78e5c244db0b18deda6c9db860&t=2%252F1773928624%252F1a6f758c207c4680e23d5d5768b00987&u=8365870372941136037&s=cac32b82b9c04dd889e52a4fd2690e05 200
+2026-03-19 09:57:06 | INFO     | response: https://www.mojeek.com/search?q=%22MBIGUCCI+CONSTRUTORA%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:57:06 | INFO     | response: https://search.yahoo.com/search;_ylt=UpIgVzGSUzf6Yij4bBWcE9jE;_ylu=fZvgC5BoefzjSDtpsoTpphyo4WxtLDLcq0oM7o2daC7WOXI?p=%22MBIGUCCI+CONSTRUTORA%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:57:07 | INFO     | response: https://www.google.com/search?q=%22MBIGUCCI+CONSTRUTORA%22+site+oficial+construtora+Brasil&filter=1&start=0&hl=en-US&lr=lang_en&cr=countryUS 403
+2026-03-19 09:57:07 | INFO     |   Found: https://mbigucci.com.br/
+2026-03-19 09:57:07 | INFO     |   Found: https://mbigucci.com.br/
+2026-03-19 09:57:11 | INFO     |   Email: N/A | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✓
+2026-03-19 09:57:13 | INFO     | [46/60] Searching: VINX CONSTRUTORA
+2026-03-19 09:57:13 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22VINX%20CONSTRUTORA%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:57:13 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22VINX+CONSTRUTORA%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:57:14 | INFO     | response: https://yandex.com/showcaptcha?cc=1&form-fb-hint=8.148&mt=06A07F4C3DB1B307348D3ED5E0F9800BED0279F2ED28052B538859776DC62F5A1192AD97B1FEE8699EA8651B29BDEBA3FA58D4A4E5BB35D41D3B043FEFAA74E91A030E4A474255316C505E16E991831EDD97987DCC323607482965688D9DE5FF36EF0A9DDAD2BAF0FAC4CAB1AA3211E879A96E7036985A9B71743B5672186FB5C47AB887C8D59F009A787169FFAEA956B92DD065159C2A417F7F56C136E1D47ACA7AF98AFB7284D8B774EEFB0FCD739A01D9C1518875213FD73B17D2E59BA71B82AA0B376E5D64F3CA740B8D51E988FA7E540A947C3BA73EFE99DC13F00156D797B7223F647220C4B1ACE2336E585EAF8BFBF6BA2C7A18&retpath=aHR0cHM6Ly95YW5kZXguY29tL3NlYXJjaC9zaXRlP3RleHQ9JTIyVklOWCtDT05TVFJVVE9SQSUyMitzaXRlK29maWNpYWwrY29uc3RydXRvcmErQnJhc2lsJndlYj0xJnNlYXJjaGlkPTM0NzIxNTE%2C_85b77550f9980f6c43c027a2d1d44847&t=2%252F1773928634%252F93ea7d7982317003193c4499a0cfe362&u=8365871017320448123&s=e410bd4daa8b4ac11a08b19bc04872ce 200
+2026-03-19 09:57:15 | INFO     | response: https://www.mojeek.com/search?q=%22VINX+CONSTRUTORA%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:57:16 | INFO     | response: https://html.duckduckgo.com/html/ 200
+2026-03-19 09:57:16 | INFO     | response: https://search.brave.com/search?q=%22VINX+CONSTRUTORA%22+site+oficial+construtora+Brasil&source=web 429
+2026-03-19 09:57:17 | INFO     | response: https://www.google.com/search?q=%22VINX+CONSTRUTORA%22+site+oficial+construtora+Brasil&filter=1&start=0&hl=en-US&lr=lang_en&cr=countryUS 403
+2026-03-19 09:57:17 | INFO     |   Found: https://apikylexy.tech/
+2026-03-19 09:57:17 | INFO     |   Found: https://apikylexy.tech/
+2026-03-19 09:57:17 | WARNING  |   Error on https://apikylexy.tech/: Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://apikylexy.tech/
+Call log:
+  - navigating to "https://apikylexy.tech/", waiting until "domcontentloaded"
+
+2026-03-19 09:57:17 | INFO     |   Email: N/A | WhatsApp: ✗ | Instagram: ✗ | LinkedIn: ✗
+2026-03-19 09:57:19 | INFO     | [47/60] Searching: CNL EMPREENDIMENTOS
+2026-03-19 09:57:19 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22CNL%20EMPREENDIMENTOS%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:57:20 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22CNL+EMPREENDIMENTOS%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:57:20 | INFO     | response: https://search.yahoo.com/search;_ylt=-7Cm0KIj5H32VdSFjSr7rSVR;_ylu=Z-tpqPXD7_W7OeUmcnInDeGpTG5nYF_F-t-yr_a3YKepUdY?p=%22CNL+EMPREENDIMENTOS%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:57:21 | INFO     | response: https://search.brave.com/search?q=%22CNL+EMPREENDIMENTOS%22+site+oficial+construtora+Brasil&source=web 429
+2026-03-19 09:57:22 | INFO     | response: https://www.mojeek.com/search?q=%22CNL+EMPREENDIMENTOS%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:57:23 | INFO     | response: https://yandex.com/showcaptcha?cc=1&form-fb-hint=8.148&mt=D483A334B6D43B01A1A1EA4A86A32733C549221A58EF8448E93CA89ABC5854811FF7C72A10482E4E4EBEE67D88582DC84F50BFDEC4AA3F199225488A22AD26658F1E4B82EED581B11C6DD292FADEEC4DD904E1CC8A6BF3778AF213FDAA6E471A6D2E129809EC433A8D9D5D4C0EB7739EF61D7523F01CA4244327FC930BB5C271513CCE52239299A7E85CC0F1C660D5F830D583B4DBE562490461349C485EA1BBA329746B174DDE83423D2C2C0E8AA1A5ABAB8DEBE7610EB582C715633BF76943458C811B0052FADEAD9F5F6F910EBBA003E318F1153DBCDEB55B0F5E57EC9370CCAF67625B6AA06FF562F35E018FD073B717624B453606&retpath=aHR0cHM6Ly95YW5kZXguY29tL3NlYXJjaC9zaXRlP3RleHQ9JTIyQ05MK0VNUFJFRU5ESU1FTlRPUyUyMitzaXRlK29maWNpYWwrY29uc3RydXRvcmErQnJhc2lsJndlYj0xJnNlYXJjaGlkPTg2MTAwNzQ%2C_8e70703a9bb806abc9b1e71ae3fcb3af&t=2%252F1773928642%252F15cd84535b500a3ebcf8f64ec3728ee4&u=8365871605394219190&s=64be4b1e66c171d21b817ce8d9900008 200
+2026-03-19 09:57:24 | INFO     | response: https://www.google.com/search?q=%22CNL+EMPREENDIMENTOS%22+site+oficial+construtora+Brasil&filter=1&start=0&hl=en-US&lr=lang_en&cr=countryUS 403
+2026-03-19 09:57:24 | INFO     |   Found: https://www.cnl.com.br/
+2026-03-19 09:57:24 | INFO     |   Found: https://www.cnl.com.br/
+2026-03-19 09:57:27 | INFO     |   Email: N/A | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✓
+2026-03-19 09:57:29 | INFO     | [48/60] Searching: MVITUZZO EMPREENDIMENTOS
+2026-03-19 09:57:29 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22MVITUZZO%20EMPREENDIMENTOS%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:57:29 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22MVITUZZO+EMPREENDIMENTOS%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:57:30 | INFO     | response: https://search.yahoo.com/search;_ylt=3skYFauSyuoEb27UCI9GXqC6;_ylu=kRJHzHomtsxsW2t56HBDkaV_qhw33ZR0DSgZ4OVaoG7G3ko?p=%22MVITUZZO+EMPREENDIMENTOS%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:57:31 | INFO     | response: https://yandex.com/showcaptcha?cc=1&form-fb-hint=8.148&mt=F41BE70191607C9FD66A0F976A27575F39E3D55185E33F91D9AA22E58A466BA0A0A2CEC5A8970F11B462ED31CEA945429EFFA5963B1D662129E112025914EEF6A4C6F3DFECE29F13F969682915A6E3201B72CC9604B91EC83D554968C73BE93112413137A91973AE0B99F553C2F25C35689EA2ECED08D7A5AA4A089C5A52C29A73A0D035A72121A15470BCD6B9FAC53BF3F3667D83879CC5821E11EDBD31D8A0D014EEB215DFBE918784B5DE2E3E768DAAD9E31E08EBB1D7458A01CD68A1923894F38588FEE762C4FBD23FF3C6DD95A76E69B1E59E0820FDC18635135FB32F19E04DAAAA08346B1D87B5A5BA37FD854AC0CA87DFB9D791&retpath=aHR0cHM6Ly95YW5kZXguY29tL3NlYXJjaC9zaXRlP3RleHQ9JTIyTVZJVFVaWk8rRU1QUkVFTkRJTUVOVE9TJTIyK3NpdGUrb2ZpY2lhbCtjb25zdHJ1dG9yYStCcmFzaWwmd2ViPTEmc2VhcmNoaWQ9MTkxODIwNA%2C%2C_02873f9903a1a9ec2ce4c07735676261&t=2%252F1773928650%252F68db1ffcb3b506385ea5ba9b50eb22ea&u=8365872136629190821&s=a1b4b68185b8040662953f4ad23d6506 200
+2026-03-19 09:57:32 | INFO     | response: https://www.google.com/search?q=%22MVITUZZO+EMPREENDIMENTOS%22+site+oficial+construtora+Brasil&filter=1&start=0&hl=en-US&lr=lang_en&cr=countryUS 403
+2026-03-19 09:57:32 | INFO     | response: https://search.brave.com/search?q=%22MVITUZZO+EMPREENDIMENTOS%22+site+oficial+construtora+Brasil&source=web 429
+2026-03-19 09:57:33 | INFO     | response: https://www.mojeek.com/search?q=%22MVITUZZO+EMPREENDIMENTOS%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:57:33 | INFO     |   Found: https://mvituzzo.com.br/
+2026-03-19 09:57:33 | INFO     |   Found: https://mvituzzo.com.br/
+2026-03-19 09:57:36 | INFO     |   Email: N/A | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✗
+2026-03-19 09:57:38 | INFO     | [49/60] Searching: CONSTAL
+2026-03-19 09:57:39 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22CONSTAL%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:57:39 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22CONSTAL%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:57:40 | INFO     | response: https://html.duckduckgo.com/html/ 200
+2026-03-19 09:57:40 | INFO     |   Found: https://constalempreendimentos.com.br/
+2026-03-19 09:57:40 | INFO     |   Found: https://constalempreendimentos.com.br/
+2026-03-19 09:57:48 | INFO     |   Email: N/A | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✗
+2026-03-19 09:57:50 | INFO     | [50/60] Searching: MORAR CONSTRUTORA
+2026-03-19 09:57:50 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22MORAR%20CONSTRUTORA%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:57:50 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22MORAR+CONSTRUTORA%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:57:51 | INFO     | response: https://search.yahoo.com/search;_ylt=dIsx9NyfxadT2I9lE2WC1mET;_ylu=lcsbPkwUzIf0maHGoouFPZMrTRWnVwkbUW_npbRezE1v778?p=%22MORAR+CONSTRUTORA%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:57:52 | INFO     | response: https://www.google.com/search?q=%22MORAR+CONSTRUTORA%22+site+oficial+construtora+Brasil&filter=1&start=0&hl=en-US&lr=lang_en&cr=countryUS 403
+2026-03-19 09:57:52 | INFO     | response: https://search.brave.com/search?q=%22MORAR+CONSTRUTORA%22+site+oficial+construtora+Brasil&source=web 429
+2026-03-19 09:57:53 | INFO     | response: https://www.mojeek.com/search?q=%22MORAR+CONSTRUTORA%22+site+oficial+construtora+Brasil 403
+2026-03-19 09:57:54 | INFO     | response: https://yandex.com/showcaptcha?cc=1&form-fb-hint=8.148&mt=E8F6F941098DDD5ED4D39478977C46EA2C0BA65233785DEEDAEB248BB6BAB4043B07DC836AF2F0F31AE7251086222375F42E258D6941FB80A0F23880CE222A78D8D5DFA23AE15D545A03B22CFE813428A8E4365AD17263611EB98AA5783F174B1A7A61170490F58315357C2494467105064D405D73C32412629B8AEC29AF70C6830A56C4A080FE6FD8797DADBA34B63616EA04AEFADCCE2153EBC7448CDDE72D0564442AB6E62C0F13771A47320FC070697E5C3C0316555702F7DB082945485F5E0570F5584F3E2018E0DC329E89DC92E32698522B261F9C1095C5357727488D75D2B56D05CC077DEAB4728B233BEC27605517AEC60A13&retpath=aHR0cHM6Ly95YW5kZXguY29tL3NlYXJjaC9zaXRlP3RleHQ9JTIyTU9SQVIrQ09OU1RSVVRPUkElMjIrc2l0ZStvZmljaWFsK2NvbnN0cnV0b3JhK0JyYXNpbCZ3ZWI9MSZzZWFyY2hpZD04ODQxMzc3_570a2814ffb22b323a03242ac350ddbe&t=2%252F1773928673%252F6dd7d00b30fdb1493dd2b2eb85999666&u=8365873646041759909&s=dd45c6e3b75e861c886de89e9ae2b036 200
+2026-03-19 09:57:54 | INFO     |   Found: https://morar.com.br/
+2026-03-19 09:57:54 | INFO     |   Found: https://morar.com.br/
+2026-03-19 09:57:59 | INFO     |   Email: N/A | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✓
+2026-03-19 09:58:01 | INFO     |   ♻️  Restarting browser context to free memory...
+2026-03-19 09:58:01 | INFO     | [51/60] Searching: MASOTTI INVESTIMENTOS
+2026-03-19 09:58:01 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22MASOTTI+INVESTIMENTOS%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:58:01 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22MASOTTI%20INVESTIMENTOS%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:58:02 | INFO     | response: https://www.mojeek.com/search?q=%22MASOTTI+INVESTIMENTOS%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:58:03 | INFO     | response: https://www.google.com/search?q=%22MASOTTI+INVESTIMENTOS%22+site+oficial+construtora+Brasil&filter=1&start=0&hl=en-US&lr=lang_en&cr=countryUS 403
+2026-03-19 09:58:03 | INFO     | response: https://html.duckduckgo.com/html/ 200
+2026-03-19 09:58:04 | INFO     | response: https://yandex.com/showcaptcha?cc=1&form-fb-hint=8.148&mt=FF0414088E19984C101A53BDAA925DBB41652AECB58AE0C0721E711B0148BFF7260918922D6EA7E7CB17148A51A980DF87B436BDD6486B5ECA145E8A4E56C4AC2BEF4165801E1EDA543DF6799241510641FC619C604D280A67C601FEDD7DA39B7A835A4B88955D90CFAE8A4A8396D5D59CB70E76A701FFCA291D83FC2B2562EAED9D188170E57C20E0CA8C0A34067E6BE0C58E47971E660444EA167EDB69F3920C051227731A9FE9DFB8E1B3955EBD5B74B9D8F678CEF83E1ABB56309AFFEB83175F7A392085B13868376B12B77A48CB26A373D491BB9B79F7A4F617DD69E451161BBB37780D5646C81C97EDA3A660559BC989409E8C4B&retpath=aHR0cHM6Ly95YW5kZXguY29tL3NlYXJjaC9zaXRlP3RleHQ9JTIyTUFTT1RUSStJTlZFU1RJTUVOVE9TJTIyK3NpdGUrb2ZpY2lhbCtjb25zdHJ1dG9yYStCcmFzaWwmd2ViPTEmc2VhcmNoaWQ9ODgyNzM2NA%2C%2C_85dda1c965f57cef6eafeb285aebc8b0&t=2%252F1773928684%252F2dd50278dbf6a502b19eca9f3243a459&u=8365874376454635686&s=414096f5b9c0ef0a9787a24d18ffd8e8 200
+2026-03-19 09:58:05 | INFO     | response: https://search.brave.com/search?q=%22MASOTTI+INVESTIMENTOS%22+site+oficial+construtora+Brasil&source=web 429
+2026-03-19 09:58:05 | INFO     |   Found: http://www.masottiempreendimentos.com.br/
+2026-03-19 09:58:05 | INFO     |   Found: http://www.masottiempreendimentos.com.br/
+2026-03-19 09:58:10 | INFO     |   Email: N/A | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✗
+2026-03-19 09:58:12 | INFO     | [52/60] Searching: YEES INCORPORADORA
+2026-03-19 09:58:12 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22YEES%20INCORPORADORA%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:58:12 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22YEES+INCORPORADORA%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:58:13 | INFO     | response: https://www.mojeek.com/search?q=%22YEES+INCORPORADORA%22+site+oficial+construtora+Brasil 403
+2026-03-19 09:58:13 | INFO     | response: https://search.brave.com/search?q=%22YEES+INCORPORADORA%22+site+oficial+construtora+Brasil&source=web 429
+2026-03-19 09:58:14 | INFO     | response: https://html.duckduckgo.com/html/ 200
+2026-03-19 09:58:15 | INFO     | response: https://www.google.com/search?q=%22YEES+INCORPORADORA%22+site+oficial+construtora+Brasil&filter=1&start=0&hl=en-US&lr=lang_en&cr=countryUS 403
+2026-03-19 09:58:16 | INFO     | response: https://yandex.com/showcaptcha?cc=1&form-fb-hint=8.148&mt=62C602930720B0AA156F6584A3A2CEA16794A178D468EECB6698F3F26843BABEE0B9E684C6EB917BFB2C9CDB6F3EB7C9152E6C97A1061A83E76DCC71B3EFEBFBFE752B934CDEE2DEBDC8333736A9965E09076C4D225865B648150AE499BBF955E92A462A895D1BB173BDB38B78A0168E42799E6E0C60D621432EE82EF606908E1FF85AEA35E85F3C8FBC5D554A026B435E916D942FFCE860AF293F284B0C5628FC74ADB571F7A892CE41BB2ADE787A871D23612CE12CF04B3AACF93DCF7D2B74CF0475E0D76400CEE14AF0FB3B17CF1BECD2E2DEFBBBEE71609A21814095BE8D84DEAC585549BC1DB7A251FEE364BF3E299F8A9051BA67&retpath=aHR0cHM6Ly95YW5kZXguY29tL3NlYXJjaC9zaXRlP3RleHQ9JTIyWUVFUytJTkNPUlBPUkFET1JBJTIyK3NpdGUrb2ZpY2lhbCtjb25zdHJ1dG9yYStCcmFzaWwmd2ViPTEmc2VhcmNoaWQ9MzM4MTQyNQ%2C%2C_f1b093c01cc082ab6c4a4ca67a3de96d&t=2%252F1773928695%252Ff51d641bb2b6ce519a22113c7e42e2ae&u=8365875135724322952&s=d7edd63126b6212e86dd0c76d2fbb276 200
+2026-03-19 09:58:16 | INFO     |   Found: https://yeesinc.com.br/
+2026-03-19 09:58:16 | INFO     |   Found: https://yeesinc.com.br/
+2026-03-19 09:58:21 | INFO     |   Email: N/A | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✓
+2026-03-19 09:58:23 | INFO     | [53/60] Searching: MAMPEI FUNADA
+2026-03-19 09:58:24 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22MAMPEI%20FUNADA%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:58:24 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22MAMPEI+FUNADA%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:58:25 | INFO     | response: https://yandex.com/showcaptcha?cc=1&form-fb-hint=8.148&mt=BF66CB26E5DD3DF5C39555CCE96E4CBAA28DCBF96B8586DA962E991EC1001FC8D84C741DD5FF0C2B06818E2F3DB0E549DD18870ADB744031C6FF2DE94229CF218E6B277EDACCB64748356ACF8A90619360CE14567467446BAF27949335A400CB06DFF421807473E41279C05A364308F60C5D30EB6499A6BA0351F70D992B55EFDB449F54B60E1EC11B170A6E841AF508A34D6D8735DD252403FA095DB59BA6C5E57D49549D5C18379B3EE277B5518850D4338F57524C5CC5600C2A8AF8E5983DF8AD15CC4D30F3AB30D5AF7A8608B1BF00C20500DEF726D98023C71E375FACD513AB4555DEBA4DDCA78493168A005E28F1CEA4DFD18700&retpath=aHR0cHM6Ly95YW5kZXguY29tL3NlYXJjaC9zaXRlP3RleHQ9JTIyTUFNUEVJK0ZVTkFEQSUyMitzaXRlK29maWNpYWwrY29uc3RydXRvcmErQnJhc2lsJndlYj0xJnNlYXJjaGlkPTUzMDA1NzU%2C_1d6a4f46f0ff8520548f1b3327eaca1a&t=2%252F1773928704%252Fc4026ad0cc10cdb8d511aa060ebfb5c9&u=8365875750909411408&s=81744df4629e179f8dc4c3f1d983c2b5 200
+2026-03-19 09:58:25 | INFO     | response: https://search.brave.com/search?q=%22MAMPEI+FUNADA%22+site+oficial+construtora+Brasil&source=web 429
+2026-03-19 09:58:26 | INFO     | response: https://www.google.com/search?q=%22MAMPEI+FUNADA%22+site+oficial+construtora+Brasil&filter=1&start=0&hl=en-US&lr=lang_en&cr=countryUS 403
+2026-03-19 09:58:27 | INFO     | response: https://html.duckduckgo.com/html/ 200
+2026-03-19 09:58:27 | INFO     |   Found: https://mampeifunada.com.br/
+2026-03-19 09:58:27 | INFO     |   Found: https://mampeifunada.com.br/
+2026-03-19 09:58:30 | INFO     |   Email: lgpd@mampeifunada.com.br | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✓
+2026-03-19 09:58:32 | INFO     | [54/60] Searching: GRUPO PLANO
+2026-03-19 09:58:33 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22GRUPO%20PLANO%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:58:33 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22GRUPO+PLANO%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:58:34 | INFO     | response: https://www.mojeek.com/search?q=%22GRUPO+PLANO%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:58:34 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=GRUPO%20PLANO%20construtora%20incorporadora%20Brasil 200
+2026-03-19 09:58:34 | INFO     | response: https://grokipedia.com/api/typeahead?query=GRUPO+PLANO+construtora+incorporadora+Brasil&limit=1 200
+2026-03-19 09:58:35 | INFO     | response: https://yandex.com/showcaptcha?cc=1&form-fb-hint=8.148&mt=089481995768FA43762D8354B9EBED397606DB949695EC7BB36EC998DA7B34F41F3E170EEB91F700A4FBE9067AC6E959311EFBE162023D5FE21FA512BD0EDC96AE424160E4DBB3DC2206CB452EBDE12EC071F4E47BFA9FD9AF3CF70FB75F0EF7480C9C340AC11AE923776F22E75B3542868186386538B19866F678121D8FC63142D2D1CDBBC28B9F2B8D9AD23FA32BDB756F15DCAACD6A781C061FB1AED6E4263A32DC73C07D544B7F266204BB854FB110D28E7B4483DE5DB6284AFDD876562F05C549360615DA049F42466FD151ADCDDCC6097A50F326C4FB9E33BCE55483BA6B7F25C36FE1320B9B72DB049D2453DBFF84F8620D1279&retpath=aHR0cHM6Ly95YW5kZXguY29tL3NlYXJjaC9zaXRlP3RleHQ9R1JVUE8rUExBTk8rY29uc3RydXRvcmEraW5jb3Jwb3JhZG9yYStCcmFzaWwmd2ViPTEmc2VhcmNoaWQ9NDU1MDIzMg%2C%2C_299bb7c2cb42c00613f4db404cf0343a&t=2%252F1773928715%252F432f8493e8f1a19a3eedb32a96809b5b&u=8365876453942534382&s=4e83ba1005eab03bbbdc00ded369503c 200
+2026-03-19 09:58:37 | INFO     | response: https://www.mojeek.com/search?q=GRUPO+PLANO+construtora+incorporadora+Brasil 200
+2026-03-19 09:58:37 | WARNING  |   No website found for GRUPO PLANO. Skipping.
+2026-03-19 09:58:37 | INFO     | [55/60] Searching: DOMO EMPREENDIMENTOS
+2026-03-19 09:58:38 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22DOMO%20EMPREENDIMENTOS%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:58:38 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22DOMO+EMPREENDIMENTOS%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:58:39 | INFO     | response: https://search.yahoo.com/search;_ylt=SJn7XV5VSZZ-tvWnrUELSYGY;_ylu=CZTzlzs3_1PFlFS_NlLJqoHgb2cRgD31-XJLf_g9i_8rqY0?p=%22DOMO+EMPREENDIMENTOS%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:58:39 | INFO     | response: https://search.brave.com/search?q=%22DOMO+EMPREENDIMENTOS%22+site+oficial+construtora+Brasil&source=web 429
+2026-03-19 09:58:40 | INFO     | response: https://www.mojeek.com/search?q=%22DOMO+EMPREENDIMENTOS%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:58:41 | INFO     | response: https://html.duckduckgo.com/html/ 200
+2026-03-19 09:58:42 | INFO     | response: https://www.google.com/search?q=%22DOMO+EMPREENDIMENTOS%22+site+oficial+construtora+Brasil&filter=1&start=0&hl=en-US&lr=lang_en&cr=countryUS 403
+2026-03-19 09:58:43 | INFO     | response: https://yandex.com/showcaptcha?cc=1&form-fb-hint=8.148&mt=22C691BBA0E255E614B07CE4B6DC92E82B55D9244FA8EF88FEA442729D5069D3D01DB303473FE11E5FAA7B175DEFC33C75C3459A40A43A9FCDB980D29D398D1DD2A2DF5A7F81EC3D4AF59A1DD797278EAD8EAE9E919C672C5E35E7A908F235B15D8B2C93152381D3E92E3A28B15DA02360F14633FC6F9F475054A9FC90729E4FF04BFF111A2562FCF54DDA77C33D04DA4DF2D5C70363F3F2737BF18FEA2E72498B4112B7639734FE9618ADF4673E8339AA4A0FC7290573FF22A7F60561F590E1A7F2281320711C2FF82A4D79152B81FEC2757AD6AAE88D3D058054C7AA71B6DD4813E3787AE873692E92C2235D2B63061E0D86E6D49FFA&retpath=aHR0cHM6Ly95YW5kZXguY29tL3NlYXJjaC9zaXRlP3RleHQ9JTIyRE9NTytFTVBSRUVORElNRU5UT1MlMjIrc2l0ZStvZmljaWFsK2NvbnN0cnV0b3JhK0JyYXNpbCZ3ZWI9MSZzZWFyY2hpZD04MjgwNzQ0_f392c2adaff63ed05a9df55bfb2f64af&t=2%252F1773928722%252F88172b4eccdb4cef2781c59d363fc8a7&u=8365876941287104672&s=364aacfdc9937f1e213e1fa63e0bc5bb 200
+2026-03-19 09:58:43 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=DOMO%20EMPREENDIMENTOS%20construtora%20incorporadora%20Brasil 200
+2026-03-19 09:58:43 | INFO     | response: https://grokipedia.com/api/typeahead?query=DOMO+EMPREENDIMENTOS+construtora+incorporadora+Brasil&limit=1 200
+2026-03-19 09:58:43 | INFO     | response: https://search.brave.com/search?q=DOMO+EMPREENDIMENTOS+construtora+incorporadora+Brasil&source=web 429
+2026-03-19 09:58:44 | INFO     | response: https://search.yahoo.com/search;_ylt=zBeHAdVE39t53Cbc9TXZ_cX7;_ylu=4o__foRdb5iO5ky-Fhmk90hkwlAG6ser3lRpzQm9hV-YbOk?p=DOMO+EMPREENDIMENTOS+construtora+incorporadora+Brasil 200
+2026-03-19 09:58:45 | INFO     | response: https://yandex.com/showcaptcha?cc=1&form-fb-hint=8.148&mt=E5EA895946FC2FACE38DEF427E5F952AAEBD75BE8E0FD4063178ECB5080A08AF64E8859FE93B7B8E3C5A6A5228825ABC72CA4EC1AC03C868FF9FC198C55D0A30057CB25CA66C26B835522DEBC3BF45A7855EA98A86FCEC25A6719DD5DB4B2F9862EB0EA1016BB5B4AB588A25F34EBC1D4330310E71C4A41A5EFD72ABB375ADE5DC59A2A8C5CBDA167F36847CD1FC92A613DBBDCFDF64E3022562D5814CA9A08C672A66BE34EF262DE53AF41840280DDF7AFD6749B39388B4E25CD70440AC36988FEEE3C1CEAA51A5349A942D27067F984A3AAE87DCA0A5B8B090293AF5EABD32E6B1228807CFCF7CF8034D0AA0AC661F3FAC801D1AFAB8&retpath=aHR0cHM6Ly95YW5kZXguY29tL3NlYXJjaC9zaXRlP3RleHQ9RE9NTytFTVBSRUVORElNRU5UT1MrY29uc3RydXRvcmEraW5jb3Jwb3JhZG9yYStCcmFzaWwmd2ViPTEmc2VhcmNoaWQ9ODY1MzM4MA%2C%2C_08976475738d4b906fcd374528765b16&t=2%252F1773928725%252F6bd46af1c9b19efbb673b00a0c19127c&u=8365877125701599419&s=a5c4dceaac02a270f7d621c48320da66 200
+2026-03-19 09:58:46 | INFO     | response: https://www.google.com/search?q=DOMO+EMPREENDIMENTOS+construtora+incorporadora+Brasil&filter=1&start=0&hl=en-US&lr=lang_en&cr=countryUS 403
+2026-03-19 09:58:48 | INFO     | response: https://www.mojeek.com/search?q=DOMO+EMPREENDIMENTOS+construtora+incorporadora+Brasil 200
+2026-03-19 09:58:48 | INFO     |   Found: https://domoempreendimentos.com.br/
+2026-03-19 09:58:48 | INFO     |   Found: https://domoempreendimentos.com.br/
+2026-03-19 09:58:53 | INFO     |   Email: contato@domoempreendimentos.com.br | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✗
+2026-03-19 09:58:55 | INFO     | [56/60] Searching: POLLO ENGENHARIA
+2026-03-19 09:58:55 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22POLLO%20ENGENHARIA%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:58:55 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22POLLO+ENGENHARIA%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:58:55 | INFO     | response: https://search.brave.com/search?q=%22POLLO+ENGENHARIA%22+site+oficial+construtora+Brasil&source=web 429
+2026-03-19 09:58:56 | INFO     | response: https://www.mojeek.com/search?q=%22POLLO+ENGENHARIA%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:58:57 | INFO     | response: https://yandex.com/showcaptcha?cc=1&form-fb-hint=8.148&mt=B46743851A76ED73C9906A1AD9C0091AC333C6C2C54E0FAA9E8FBDDC82E9045BBE156D5481757B257982260178132E441BD7C5DCBB0DBD425F0C309AF0A3A7A0E8BD4BA6042CA46F87AE663D1696B97CF004A39D57F5F0A91943BB050202F8DD387D5878262FA8C34F8FF02F1AAD4791330EE56D2053A82B97FA0DE9423ADCC0AAE6F60DCB42560E04A8AD4AD699FDCF07391950CC821B79B9D81531F25D8B03E46C8FDC49235C2B04C45BE37DE401823FE147985CC6041E562DF7CF608C12BF117D031B77D5FC7B2573476B6B425DAF23AC9FF98DD896F42956724B7DC69E5A25E5AF68E6B13A51E384CBF40BAE6DBE9A7599B1E78E98&retpath=aHR0cHM6Ly95YW5kZXguY29tL3NlYXJjaC9zaXRlP3RleHQ9JTIyUE9MTE8rRU5HRU5IQVJJQSUyMitzaXRlK29maWNpYWwrY29uc3RydXRvcmErQnJhc2lsJndlYj0xJnNlYXJjaGlkPTYxMjM5NTI%2C_50339d8a2de737a90b63d2225fb7d5d7&t=2%252F1773928737%252Ff4af48e0cefb828a28a69fb167ec6326&u=8365877916915769552&s=864e99f8896ed5e1a2715332814b284e 200
+2026-03-19 09:58:58 | INFO     | response: https://html.duckduckgo.com/html/ 200
+2026-03-19 09:58:58 | INFO     |   Found: https://polloeng.com.br/
+2026-03-19 09:58:58 | INFO     |   Found: https://polloeng.com.br/
+2026-03-19 09:59:02 | INFO     |   Email: comercial@polloeng.com.br | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✓
+2026-03-19 09:59:04 | INFO     | [57/60] Searching: IDEALLY CONSTRUTORA E INCORPORADORA
+2026-03-19 09:59:04 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22IDEALLY%20CONSTRUTORA%20E%20INCORPORADORA%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:59:04 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22IDEALLY+CONSTRUTORA+E+INCORPORADORA%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:59:05 | INFO     | response: https://www.mojeek.com/search?q=%22IDEALLY+CONSTRUTORA+E+INCORPORADORA%22+site+oficial+construtora+Brasil 403
+2026-03-19 09:59:05 | INFO     | response: https://www.google.com/search?q=%22IDEALLY+CONSTRUTORA+E+INCORPORADORA%22+site+oficial+construtora+Brasil&filter=1&start=0&hl=en-US&lr=lang_en&cr=countryUS 403
+2026-03-19 09:59:07 | INFO     | response: https://yandex.com/showcaptcha?cc=1&form-fb-hint=8.148&mt=5430F2A4F69BE8E324A122E61697D2F4BD5517B9106D03C0C247B53BF7CD29D8045DBD0157E5259B3B1E5ABD1CF401BA6ED04C64185259F080370FA5A3D33A5D007FABB9785B1D54E650C33E1C27FCD9413FA62C794DB8784AD7F3E97914D7AB5F00E175B4281411A0457E7FA6559A384DA671C156E4E4E99B3D1D88C6B4ACE633F56957EB5F59E2A3917383074895EF687D2FFC0092EFC16F2E46AE66DD756003408297A4F6C2BBB7F904A8CD303194F18CCAA29E03158F0B11F550F7B9591CE5EDABEBF6ED44713FEC68CBF0015DE67465671644A98568110C29DE7796F1E60145D080BB8B6943F3BCD02F07BA72068AF128501B67D8&retpath=aHR0cHM6Ly95YW5kZXguY29tL3NlYXJjaC9zaXRlP3RleHQ9JTIySURFQUxMWStDT05TVFJVVE9SQStFK0lOQ09SUE9SQURPUkElMjIrc2l0ZStvZmljaWFsK2NvbnN0cnV0b3JhK0JyYXNpbCZ3ZWI9MSZzZWFyY2hpZD00NTQ2NzMz_9bc3ae54e8355ee1b62f1c207fb4487b&t=2%252F1773928746%252F49f0cb5f7a2fab3f1f005789b5ab516b&u=8365878538209632357&s=baf95fba024d7898377fa98d7067bbe1 200
+2026-03-19 09:59:07 | INFO     | response: https://search.brave.com/search?q=%22IDEALLY+CONSTRUTORA+E+INCORPORADORA%22+site+oficial+construtora+Brasil&source=web 429
+2026-03-19 09:59:07 | INFO     | response: https://search.yahoo.com/search;_ylt=WLzZkMLiAbu7UYXlFijq-D9q;_ylu=NzUOL_ibA3C3N9JStX7_4d3lCbDWl-7bm_lSKFHzBAb6sj8?p=%22IDEALLY+CONSTRUTORA+E+INCORPORADORA%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:59:09 | INFO     | response: https://html.duckduckgo.com/html/ 200
+2026-03-19 09:59:09 | INFO     |   Found: https://ideallyconstrutora.com.br/
+2026-03-19 09:59:09 | INFO     |   Found: https://ideallyconstrutora.com.br/
+2026-03-19 09:59:11 | INFO     |   Email: sac@ideallyconstrutora.com.br | WhatsApp: ✗ | Instagram: ✓ | LinkedIn: ✗
+2026-03-19 09:59:13 | INFO     | [58/60] Searching: COEVO CONSTRUTORA E INCORPORADORA
+2026-03-19 09:59:13 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22COEVO%20CONSTRUTORA%20E%20INCORPORADORA%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:59:14 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22COEVO+CONSTRUTORA+E+INCORPORADORA%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:59:14 | INFO     | response: https://search.brave.com/search?q=%22COEVO+CONSTRUTORA+E+INCORPORADORA%22+site+oficial+construtora+Brasil&source=web 429
+2026-03-19 09:59:15 | INFO     | response: https://yandex.com/showcaptcha?cc=1&form-fb-hint=8.148&mt=2267DDF22EECED4EDE718BF049C0BAA583C06E4FA638AEB33176F4162721823F79F21AE1334A0A46A5510181124FE880A9BABC0E6AFC1653513B85662D91C8A61B5B622F57A36E371052B413224B44DB2B8DD2F7D039129E5C7F14146E224376EE06B8418A575E1E8482266BAEA677DDAA29E5B690A27D8144708987DF5789D895DAECA1F2E379FE9C5E49FC0926D84AFEF838A5EE2F4AB504F1B0AD3D6CC60B622E2B3024D4DE6AA8991D7D1C176CDF19E552906AE80A9A1B4B00483402B980E71F5C8BCDC2F3988F87650373DAB7222AD7BCEB746B3194CB6EE9EC92FC84EB9A9424DB43F8AFDE22FBC587E74DE494D572FBEBA89098&retpath=aHR0cHM6Ly95YW5kZXguY29tL3NlYXJjaC9zaXRlP3RleHQ9JTIyQ09FVk8rQ09OU1RSVVRPUkErRStJTkNPUlBPUkFET1JBJTIyK3NpdGUrb2ZpY2lhbCtjb25zdHJ1dG9yYStCcmFzaWwmd2ViPTEmc2VhcmNoaWQ9ODA1ODk1NQ%2C%2C_e3b56725440d9b4148dba3d38c767f26&t=2%252F1773928754%252F28efbf67d793a873c30ae077442b2259&u=8365879103064277087&s=a18c8f75ba729cf16315ba6d24dff6d8 200
+2026-03-19 09:59:16 | INFO     | response: https://html.duckduckgo.com/html/ 200
+2026-03-19 09:59:16 | INFO     |   Found: https://coevoconstrutora.com.br/
+2026-03-19 09:59:16 | INFO     |   Found: https://coevoconstrutora.com.br/
+2026-03-19 09:59:19 | INFO     |   Email: N/A | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✓
+2026-03-19 09:59:21 | INFO     | [59/60] Searching: VITRA ENGENHARIA
+2026-03-19 09:59:22 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22VITRA+ENGENHARIA%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:59:22 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22VITRA%20ENGENHARIA%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:59:22 | INFO     | response: https://www.google.com/search?q=%22VITRA+ENGENHARIA%22+site+oficial+construtora+Brasil&filter=1&start=0&hl=en-US&lr=lang_en&cr=countryUS 403
+2026-03-19 09:59:23 | INFO     | response: https://html.duckduckgo.com/html/ 200
+2026-03-19 09:59:23 | INFO     |   Found: https://vitraengenharia.com.br/
+2026-03-19 09:59:23 | INFO     |   Found: https://vitraengenharia.com.br/
+2026-03-19 09:59:26 | INFO     |   Email: comunicacao@vitraengenharia.com.br | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✓
+2026-03-19 09:59:28 | INFO     | [60/60] Searching: GABBAI
+2026-03-19 09:59:28 | INFO     | response: https://en.wikipedia.org/w/api.php?action=opensearch&profile=fuzzy&limit=1&search=%22GABBAI%22%20site%20oficial%20construtora%20Brasil 200
+2026-03-19 09:59:29 | INFO     | response: https://grokipedia.com/api/typeahead?query=%22GABBAI%22+site+oficial+construtora+Brasil&limit=1 200
+2026-03-19 09:59:29 | INFO     | response: https://search.brave.com/search?q=%22GABBAI%22+site+oficial+construtora+Brasil&source=web 429
+2026-03-19 09:59:30 | INFO     | response: https://www.mojeek.com/search?q=%22GABBAI%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:59:31 | INFO     | response: https://yandex.com/showcaptcha?cc=1&form-fb-hint=8.148&mt=BD1A3E150C7B1868A2D6887E95B59E407A4E5E6841FEC906C5FEEB96E889ED976BF8BA2607F7EE78BC3B6D5A3FBBE7904710100BCD0AB5228F49C5D5A6E3169F387552C7748F7E398053AD45E3387BEF3A1F736CD7047D2E0D21379CE4CE0D27F9C38D0DD1AFB48817D98451D7CEF7C3C5EA05B81B732F7FBAD611724BA7C073FDC851A407F975EAE8DD96268E19EE3F75810916099C6A2E1974341BFB8710CF881C3E79BD7D6235C40338A4DC74CA34C867FAAAC6F95C7E1439CD7CFD8549597D2CEDA3545125E5D0EDA8BF1BD378AC6C42B298FB451B112DA9691CD0745C98B7E91D2B0FA17D756660B2999D3522DF919378A51BABB3&retpath=aHR0cHM6Ly95YW5kZXguY29tL3NlYXJjaC9zaXRlP3RleHQ9JTIyR0FCQkFJJTIyK3NpdGUrb2ZpY2lhbCtjb25zdHJ1dG9yYStCcmFzaWwmd2ViPTEmc2VhcmNoaWQ9MTc5MTE5OQ%2C%2C_7aa15c4bc9d4dc2b43f995ab92b2f22e&t=2%252F1773928770%252F9aa13d2bd01d4e46bec937fa0f5c4c2b&u=8365880175196151822&s=9d92cd4153cdc72443c182c80223d745 200
+2026-03-19 09:59:31 | INFO     | response: https://search.yahoo.com/search;_ylt=gK_4MYLoeXNgHwb1NNty3ZAf;_ylu=YtshXGH0YbybUuXXSb-0Y0i2L2NPn37M6BG7vNmPR44btYU?p=%22GABBAI%22+site+oficial+construtora+Brasil 200
+2026-03-19 09:59:32 | INFO     | response: https://www.google.com/search?q=%22GABBAI%22+site+oficial+construtora+Brasil&filter=1&start=0&hl=en-US&lr=lang_en&cr=countryUS 403
+2026-03-19 09:59:32 | INFO     |   Found: http://gabbai.com.br/
+2026-03-19 09:59:32 | INFO     |   Found: http://gabbai.com.br/
+2026-03-19 09:59:40 | INFO     |   Email: contato@gabbai.com.br | WhatsApp: ✓ | Instagram: ✓ | LinkedIn: ✓
+2026-03-19 09:59:42 | INFO     | Step 2 complete: contacts extracted for 60 companies.
+2026-03-19 09:59:42 | INFO     | Raw data written to construtoras_sudeste.xlsx.
+2026-03-19 09:59:42 | INFO     | Formatted Excel saved: construtoras_sudeste.xlsx
+2026-03-19 09:59:42 | INFO     | 
+2026-03-19 09:59:42 | INFO     | =======================================================
+2026-03-19 09:59:42 | INFO     |   STEPS 1 & 2 COMPLETE — RUN SUMMARY
+2026-03-19 09:59:42 | INFO     | =======================================================
+2026-03-19 09:59:42 | INFO     |   Companies analyzed  : 60
+2026-03-19 09:59:42 | INFO     |   Region              : SUDESTE
+2026-03-19 09:59:42 | INFO     |   States breakdown    :
+2026-03-19 09:59:42 | INFO     |       ES  →  3 companies
+2026-03-19 09:59:42 | INFO     |       MG  →  8 companies
+2026-03-19 09:59:42 | INFO     |       RJ  →  1 companies
+2026-03-19 09:59:42 | INFO     |       SP  →  48 companies
+2026-03-19 09:59:42 | INFO     | 
+2026-03-19 09:59:42 | INFO     |   Emails found        : 23 / 60
+2026-03-19 09:59:42 | INFO     |   WhatsApp found      : 39 / 60
+2026-03-19 09:59:42 | INFO     |   Instagram found     : 49 / 60
+2026-03-19 09:59:42 | INFO     |   LinkedIn found      : 34 / 60
+2026-03-19 09:59:42 | INFO     | 
+2026-03-19 09:59:42 | INFO     |   Errors logged       : 0
+2026-03-19 09:59:42 | INFO     |   Output file         : construtoras_sudeste.xlsx
+2026-03-19 09:59:42 | INFO     |   Log file            : scraper.log
+2026-03-19 09:59:42 | INFO     | =======================================================
