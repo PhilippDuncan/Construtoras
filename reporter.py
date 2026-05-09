@@ -96,6 +96,9 @@ class Reporter:
         print(f"  Excel report saved: {self.report_file}")
 
     def build_database(self, df: pd.DataFrame) -> None:
+        # deduplicate columns — keep first occurrence (original enriched value wins)
+        df = df.loc[:, ~df.columns.duplicated(keep="first")].copy()
+
         conn = sqlite3.connect(self.db_file)
         cur  = conn.cursor()
 
